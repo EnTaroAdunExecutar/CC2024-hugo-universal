@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vereins on Club Cyclist 2024 Eschelbronn</title>
+    <link>http://localhost:1313/de/verein/</link>
+    <description>Recent content in Vereins on Club Cyclist 2024 Eschelbronn</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/de/verein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Satzung</title>
+      <link>http://localhost:1313/de/verein/satzung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/verein/satzung/</guid>
+      <description>Satzung des Club Cycliste 2024 Eschelbronn e.V. § 1 Name, Sitz und Geschäftsjahr Der Verein führt den Namen „Club Cycliste 2024 Eschelbronn“. Er ist im Vereinsregister des Amtsgerichtes Mannheim eingetragen und trägt den Zusatz „e.V.“ Das Gründungsdatum des Vereins ist der 03. Juni 2024. Der Sitz des Vereins ist Eschelbronn. Das Geschäftsjahr ist das Kalenderjahr. § 2 Zweck des Vereins Der Zweck des Vereins ist die Förderung des Radsports in all seiner Vielfalt in Eschelbronn und Umgebung.</description>
+    </item>
+    <item>
+      <title>Vorstand</title>
+      <link>http://localhost:1313/de/verein/vorstand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/verein/vorstand/</guid>
+      <description>Die Vorstände des Club Cyclist 2024 &amp;hellip; some text &amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

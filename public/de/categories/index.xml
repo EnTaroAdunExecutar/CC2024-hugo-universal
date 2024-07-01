@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Club Cyclist 2024 Eschelbronn</title>
+    <link>http://localhost:1313/de/categories/</link>
+    <description>Recent content in Categories on Club Cyclist 2024 Eschelbronn</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 30 Jun 2024 10:23:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Touren</title>
+      <link>http://localhost:1313/de/categories/touren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/categories/touren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radaktion</title>
+      <link>http://localhost:1313/de/categories/radaktion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/categories/radaktion/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

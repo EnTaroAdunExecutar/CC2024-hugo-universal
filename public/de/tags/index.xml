@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Club Cyclist 2024 Eschelbronn</title>
+    <link>http://localhost:1313/de/tags/</link>
+    <description>Recent content in Tags on Club Cyclist 2024 Eschelbronn</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 30 Jun 2024 10:23:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Touren</title>
+      <link>http://localhost:1313/de/tags/touren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/touren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radaktion</title>
+      <link>http://localhost:1313/de/tags/radaktion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/radaktion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sinsheim</title>
+      <link>http://localhost:1313/de/tags/sinsheim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/sinsheim/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
