@@ -8,11 +8,11 @@
     <language>de</language>
     <atom:link href="http://localhost:1313/de/impressum/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kontakt</title>
+      <title>Impressum</title>
       <link>http://localhost:1313/de/impressum/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/impressum/impressum/</guid>
-      <description>Hier muss noch das Kontaktformular eingefügt werden &amp;hellip; some text &amp;hellip;</description>
+      <description>Impressum Club Cyclist 2024 e.V.&#xA;Blablastr. XYZ&#xA;74927 Eschelbronn&#xA;1. Vorsitzender (vertretungsberechtigt)&#xA;Pasi Echner&#xA;Telefon: +49 (0)6226-123456789&#xA;E-Mail: irgendwas @ cc23.de&#xA;Registergericht: Amtsgericht Mannheim&#xA;Registernummer: VR 340358&#xA;V.i.S.d § 18 Abs. 2 MStV&#xA;Rainer Heilmann&#xA;Goehtestr. 12&#xA;74927 Eschelbronn</description>
     </item>
   </channel>
 </rss>

@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tourenangebot KW 27</title>
-      <link>http://localhost:1313/de/posts/tourenangebotkw24_2024/</link>
+      <link>http://localhost:1313/de/posts/2024/tourenangebotkw24_2024/</link>
       <pubDate>Sun, 30 Jun 2024 10:23:19 +0200</pubDate>
-      <guid>http://localhost:1313/de/posts/tourenangebotkw24_2024/</guid>
+      <guid>http://localhost:1313/de/posts/2024/tourenangebotkw24_2024/</guid>
       <description>Das Tourenangebot für nächste Woche ist äußerst umfangreich, da sollte für jeden etwas dabaei sein.</description>
     </item>
     <item>
       <title>Raddemo und Radaktion in Sinsheim</title>
-      <link>http://localhost:1313/de/posts/raddemo29_06_2024/</link>
+      <link>http://localhost:1313/de/posts/2024/raddemo29_06_2024/</link>
       <pubDate>Wed, 26 Jun 2024 10:23:19 +0200</pubDate>
-      <guid>http://localhost:1313/de/posts/raddemo29_06_2024/</guid>
+      <guid>http://localhost:1313/de/posts/2024/raddemo29_06_2024/</guid>
       <description>Raddemo und Radaktion am Sa. 29. Juni 2024, 10:00 in Sinsheim</description>
     </item>
   </channel>
