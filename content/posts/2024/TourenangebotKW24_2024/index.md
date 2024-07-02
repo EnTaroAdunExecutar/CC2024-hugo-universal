@@ -6,7 +6,7 @@ authors = ["Pasi Echner"]
 tags = ["Touren"]
 categories = ["Touren"]
 
-banner = "/Bilder/alter_Sattel.jpg"
+banner = "Bilder/alter_Sattel.jpg"
 draft = false
 
 +++
