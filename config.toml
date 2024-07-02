@@ -77,6 +77,30 @@ pluralizelisttitles = false
     weight     = 5
 
 
+#-------------------------------------------------------  TopBar  ------------
+# Enable or disable top bar with social icons
+# better disable to prevent a flood of spam-mails
+[params.topbar]
+    enable = true
+     text = """<p class="hidden-sm hidden-xs" style="font-size: 20px;">Club Cyclist 2024 Eschelbronn</p>
+     """
+#    text = """<p class="hidden-sm hidden-xs">Kontaktiert uns über kontakt@cc2024-eschelbronn.de</p>
+#      <p class="hidden-md hidden-lg"><a href="mailto:kontakt@cc2024-eschelbronn.de" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+#      </p>
+#      """
+
+[[menu.topbar]]
+    weight = 1
+    name = "Email"
+    url = "mailto:kontakt@cc2024-eschelbronn.de"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "GitHub"
+    url = "https://github.com/EnTaroAdunExecutar/CC2024-hugo-universal"
+    pre = "<i class='fab fa-2x fa-github'></i>"
+
 [params]
 
     defaultKeywords = ["Tour", "Rad"]
@@ -88,33 +112,23 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
-    about_us = "<p>Das radelnde Schreinerdorf und sein Fahradverein.</p>"
+    about_us = "<p>Das radelnde Schreinerdorf und sein Fahradverein - Club Cyclist 2024 Eschelbronn.</p>"
     copyright = "Copyright (c) 2024, Club Cyclist 2024 Eschelbronn, alle Rechte vorbehalten."
 
     # Logo
     disabled_logo = false
     logo_text = "Club Cyclist 2024 - Eschelbronn"
-
     logo = "Bilder/CCE_Wappen.png"
     logo_small = "Bilder/CCE_Wappen.png"
 
     dropdown_mouse_over = true
-
-# Enable or disable top bar with social icons
-# better disable to prevent a flood of spam-mails
-[params.topbar]
-    enable = false
-    text = """<p class="hidden-sm hidden-xs">Kontaktiert uns über kontakt@cc2024-eschelbronn.de</p>
-      <p class="hidden-md hidden-lg"><a href="mailto:kontakt@cc2024-eschelbronn.de" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
 
 [params.footer.recent_posts]
     enable = true
 
 [params.recent_posts]
     enable = true
-    title = "Beiträge"
+    title = "Aktuelle Artikel"
 #    subtitle = "aktuell Artikel "
     hide_summary = false
 
