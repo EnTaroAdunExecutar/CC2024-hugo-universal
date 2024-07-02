@@ -49,7 +49,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Satzung als PDF"
     url        = "/de/verein/satzung.pdf"
-    weight     = 2
+    weight     = 3
     parent     = "menu.verein"
 
 #-------------------------------------------------------  Mitglied werden ------------
