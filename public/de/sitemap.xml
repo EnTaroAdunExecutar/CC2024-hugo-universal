@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/event/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/2024/stadtradelevent/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/stadtradeln/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/stadtradeln/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/u-17/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/uboot/</loc>
+    <lastmod>2024-07-02T14:23:19+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/2024/</loc>
     <lastmod>2024-07-02T03:23:19+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/2024/amtsblattkw27/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/stadtradeln/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/stadtradeln/</loc>
-    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/</loc>
     <lastmod>2024-07-02T03:23:19+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/touren/</loc>
@@ -48,6 +60,8 @@
     <lastmod>2024-06-26T10:23:19+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CC2024-hugo-universal/de/authors/pasi-echner/</loc>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/authors/tobias-karpstein/</loc>
   </url><url>
     <loc>http://localhost:1313/CC2024-hugo-universal/de/authors/</loc>
   </url><url>

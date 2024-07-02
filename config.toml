@@ -120,6 +120,6 @@ pluralizelisttitles = false
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
+    categories = false
     tags = true
     search = false
