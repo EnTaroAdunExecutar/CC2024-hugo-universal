@@ -36,7 +36,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Vorstand"
-    url        = "/CC2024-hugo-universal/de/verein/vorstand/"
+    url        = "/de/verein/vorstand/"
     weight     = 1
     parent     = "menu.verein"
 
