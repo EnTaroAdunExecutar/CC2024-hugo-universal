@@ -6,7 +6,7 @@ authors = ["Pasi Echner"]
 tags = ["Radaktion","Sinsheim"]
 categories = ["Radaktion"]
 
-banner = "/Bilder/alter_Sattel.jpg"
+banner = "/CC2024-hugo-universal/Bilder/alter_Sattel.jpg"
 draft = false
 
 +++
