@@ -2,55 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/</loc>
-    <lastmod>2024-07-02T10:23:19+02:00</lastmod>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/2024/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/posts/</loc>
-    <lastmod>2024-07-02T10:23:19+02:00</lastmod>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/2024/amtsblattkw27/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/categories/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/stadtradeln/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/stadtradeln/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/</loc>
+    <lastmod>2024-07-02T03:23:19+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/touren/</loc>
     <lastmod>2024-06-30T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/touren/</loc>
     <lastmod>2024-06-30T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/tags/touren/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/2024/tourenangebotkw24_2024/</loc>
     <lastmod>2024-06-30T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/categories/touren/</loc>
-    <lastmod>2024-06-30T10:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/de/posts/2024/tourenangebotkw24_2024/</loc>
-    <lastmod>2024-06-30T10:23:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/radaktion/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/radaktion/</loc>
     <lastmod>2024-06-26T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/categories/radaktion/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/categories/radaktion/</loc>
     <lastmod>2024-06-26T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/posts/2024/raddemo29_06_2024/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/posts/2024/raddemo29_06_2024/</loc>
     <lastmod>2024-06-26T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/tags/sinsheim/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/tags/sinsheim/</loc>
     <lastmod>2024-06-26T10:23:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/authors/pasi-echner/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/authors/pasi-echner/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/authors/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/impressum/impressum/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/impressum/impressum/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/impressum/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/impressum/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/kontakt/kontakt/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/kontakt/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/kontakt/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/verein/satzung/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/verein/satzung/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/verein/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/verein/</loc>
   </url><url>
-    <loc>http://localhost:1313/de/verein/vorstand/</loc>
+    <loc>http://localhost:1313/CC2024-hugo-universal/de/verein/vorstand/</loc>
   </url>
 </urlset>

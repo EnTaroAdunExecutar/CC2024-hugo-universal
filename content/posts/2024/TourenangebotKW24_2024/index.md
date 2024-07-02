@@ -18,11 +18,11 @@ Am Mittwoch wird es voraussichtlich zwar frisch und nass, aber wir sind ja nicht
 
 ### Tour 1
 
-![Tour1](IMG_6474(Small).jpg)
+{{< imgprocess "IMG_6474.jpg" "resize 800x" "Tour1" >}}
 
 ### Tour 2
 
-![Tour1](IMG_6475(Small).jpg)
+{{< imgprocess "IMG_6475.jpg" "resize 800x" "Tour2" >}}
 
 Kommenden Sonntag ist zudem der Fahrrad-Aktionstag beim TV. Auch hier werden vier verschiedene Touren angeboten, es gibt ein Rahmenprogramm für Kinder und auch für Speis und Trank ist gesorgt.
 

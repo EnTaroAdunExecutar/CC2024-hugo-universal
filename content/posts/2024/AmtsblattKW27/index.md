@@ -1,12 +1,12 @@
 +++
 title = 'Amtsblattbericht KW 27'
-date = "2024-07-02T10:23:19+02:00"
+date = "2024-07-02T03:23:19+02:00"
 summary = "Stadtradeln 2024 - Jahr für Jahr der gleiche Wahnsinn!"
 authors = ["Pasi Echner"]
 tags = ["Stadtradeln","2024"]
 categories = ["Stadtradeln"]
 
-banner = "Bilder/alter_Sattel.jpg"
+banner = "Bilder/logo-stadtradeln.png"
 draft = false
 
 +++
@@ -18,11 +18,9 @@ Der Club Cycliste 2024 lud pünktlich zum Start der Tour de France letzten Samst
 
 ### Das Feld war noch zusammen
 
-{{ $image2 := .Resources.Get "image2.jpeg" }}
-{{ $image2 := $image.Resize "600x" }}
-![Feld](image2.jpeg)
+{{< imgprocess "image2.jpeg" "resize 800x" "Feld" >}}
 
-Die Rennradfraktion und die „Gruppo moderato“ beim Start auf dem Marktplatz noch vereint, bevor es im Anschluss auf unterschiedliche Touren ging
+> Die Rennradfraktion und die „Gruppo moderato“ beim Start auf dem Marktplatz noch vereint, bevor es im Anschluss auf unterschiedliche Touren ging
 
 Auf dem bisher Erreichten lässt sich durchaus aufbauen: Unglaubliche 100 Fahrer haben bereits mindestens 100 Kilometer auf dem Rad zurückgelegt, 45 Starter sogar schon über 200 Kilometer. Auf den vorderen Plätzen wird gefahren als gäbe es kein Morgen. Der Ausreißer Max Stier auf Platz 1 der Gesamtwertung ist dem restlichen Feld mit 1.156 gefahrenen Kilometern bereits weit enteilt. Auf den Podestplätzen 2 und 3 folgen mit momentan gehörigem Abstand Pasi Echner (1.024 km) und Tobias Karpstein (791 km). Die Top 10 wird komplettiert durch Haiko Emmerling (786 km), Hans Dieter Geiss (643 km), Hauptamtsleiter Matthäus Bürkle (578 km), Maike Himmelhan (554 km), Johann Triller (539 km), Michael Knee (496 km) und Günter Maier (496 km).
 
