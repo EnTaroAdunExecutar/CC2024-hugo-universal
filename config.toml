@@ -48,7 +48,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Satzung als PDF"
-    url        = "/de/verein/satzung.pdf"
+    url        = "/verein/satzung.pdf"
     weight     = 2
     parent     = "menu.verein"
 
@@ -57,7 +57,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Mitglied werden"
     identifier = "menu.mitglied"
-    url        = "/de/mitglied_werden/cce_mitgliedsantrag.pdf"
+    url        = "/mitglied_werden/cce_mitgliedsantrag.pdf"
     weight     = 3
 
 #-------------------------------------------------------  Kontakt  ------------
