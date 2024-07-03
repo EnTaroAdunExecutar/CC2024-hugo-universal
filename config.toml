@@ -82,7 +82,7 @@ pluralizelisttitles = false
 # better disable to prevent a flood of spam-mails
 [params.topbar]
     enable = true
-     text = """<p class="hidden-sm hidden-xs" style="font-size: 20px;">Club Cyclist 2024 Eschelbronn</p>
+     text = """<p class="hidden-sm hidden-xs" style="font-size: 20px; color: #acd2b5; font-family: Roboto, Helvetica, Arial, sans-serif;">Club Cyclist 2024 Eschelbronn</p>
      """
 #    text = """<p class="hidden-sm hidden-xs">Kontaktiert uns über kontakt@cc2024-eschelbronn.de</p>
 #      <p class="hidden-md hidden-lg"><a href="mailto:kontakt@cc2024-eschelbronn.de" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
