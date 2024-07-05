@@ -36,7 +36,7 @@
 
 
 
-<link href="/CC2024-hugo-universal/css/custom.css?1720158737" rel="stylesheet">
+<link href="/CC2024-hugo-universal/css/custom.css?1720170121" rel="stylesheet">
 
 
 
@@ -74,7 +74,7 @@
 <meta name="twitter:description" content="">
 
 
-    
+    <link disabled id="dark-mode-theme" rel="stylesheet" href="/CC2024-hugo-universal/css/dark.css">
   </head>
 
   <body>
@@ -97,6 +97,7 @@
             
             <a href="https://github.com/EnTaroAdunExecutar/CC2024-hugo-universal" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-github'></i></a>
             
+            <a id="dark-mode-toggle" class="fal fa-moon-o">Toggle Dark Mode</a>
           </div>
         </div>
       </div>
@@ -770,7 +771,28 @@
 
 <script src="/CC2024-hugo-universal/js/owl.carousel.min.js"></script>
 
+<script>
+var toggle = document.getElementById("dark-mode-toggle");
+var darkTheme = document.getElementById("dark-mode-theme");
 
+toggle.addEventListener("click", () => {
+    if (toggle.className === "fal fa-moon-o") {
+        setTheme("dark");
+    } else if (toggle.className === "fal fa-sun-o") {
+        setTheme("light");
+    }
+});
+
+function setTheme(mode) {
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        toggle.className = "fal fa-sun-o";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        toggle.className = "fal fa-moon-o";
+    }
+}
+</script>
 
   </body>
 </html>
