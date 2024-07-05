@@ -27,12 +27,20 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
+#------------------------------------------------------- Alle Artiekl ---------------
+
+[[menu.main]]
+    name       = "Alle Artikel"
+    identifier = "menu.artikel"
+    url        = "/de/posts/"
+    weight     = 2
+
 #------------------------------------------------------- VEREIN ---------------
 [[menu.main]]
     name       = "Verein"
     identifier = "menu.verein"
  #   url        = "/img/template-easy-customize.png"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "Vorstand"
@@ -58,7 +66,7 @@ pluralizelisttitles = false
     name       = "Mitglied werden"
     identifier = "menu.mitglied"
     url        = "https://entaroadunexecutar.github.io/CC2024-hugo-universal/de/mitglied_werden/cce_mitgliedsantrag.pdf"
-    weight     = 3
+    weight     = 4
 
 #-------------------------------------------------------  Kontakt  ------------
 
@@ -66,7 +74,7 @@ pluralizelisttitles = false
     name       = "Kontakt"
     identifier = "menu.kontakt"
     url        = "/de/Kontakt/Kontakt"
-    weight     = 4
+    weight     = 5
 
 #-------------------------------------------------------  Impressum  ------------
 
@@ -74,7 +82,7 @@ pluralizelisttitles = false
     name       = "Impressum"
     identifier = "menu.impressum"
     url        = "/de/Impressum/Impressum"
-    weight     = 5
+    weight     = 6
 
 
 #-------------------------------------------------------  TopBar  ------------
