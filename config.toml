@@ -149,7 +149,7 @@ pluralizelisttitles = false
 ### use this for something like a top news -> linking somewhere else
 [params.see_more]
     enable = false 
-    icon = "far fa-file-alt"
+    icon = "fa fa-file-alt"
     title = "Stadtradeln"
 #    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
 #   link_url = "https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=11694&L=0"
