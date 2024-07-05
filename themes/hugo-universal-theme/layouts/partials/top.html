@@ -11,7 +11,7 @@
             {{ range .Site.Menus.topbar.ByWeight }}
             <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
             {{ end }}
-            <a id="dark-mode-toggle" class="fal fa-moon-o">Toggle Dark Mode</a>
+            <a id="dark-mode-toggle" style="opacity: 1;"><i id="dark-mode-icon" class="fa fa-2x fa-moon"></i></a>
           </div>
         </div>
       </div>
