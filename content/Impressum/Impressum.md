@@ -16,18 +16,18 @@ Blablastr. XYZ
 
 Pasi Echner
 
-Telefon: +49 (0)6226-123456789
+Telefon: +49 (0)6226-1234567
 
 E-Mail: irgendwas @ cc23.de
 
 Registergericht: Amtsgericht Mannheim
 
-Registernummer: VR 340358
+Registernummer: VR asdfasdf41364864
 
 V.i.S.d § 18 Abs. 2 MStV
 
-Rainer Heilmann
+XYZ
 
-Goehtestr. 12
+Irgendwas str. 
 
 74927 Eschelbronn
