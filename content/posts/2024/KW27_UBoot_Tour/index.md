@@ -12,7 +12,7 @@ draft = false
 +++
 ## Auf gehts zum U-Boot 17
 
-Da ja momentan das U-Boot  U17 ganz groß im Interesse von allen steht biete ich euch für Dienstag den 09.07.2024 einer Spektakuläre Tour am Neckar an. Wir radeln um 13:30 vom Marktplatz in Eschelbronn über Mückenloch an den Neckar bis nach Haßmersheim. Wo wir uns dann gegen 16:00 verköstigen lassen können. Gegen 17:30 können wir gemeinsamen den direkten Heimweg antreten. Genaue Streckenführung im Anhang, es sind ca. 85km. Rückfragen oder Anmelden gerne unter [info@juergen-kaefer.de](mailto:info@juergen-kaefer) oder [anrufen](tel:+4901743129599).
+Da ja momentan das U-Boot  U17 ganz groß im Interesse von allen steht biete ich euch für Dienstag den 09.07.2024 einer Spektakuläre Tour am Neckar an. Wir radeln um 13:30 vom Marktplatz in Eschelbronn über Mückenloch an den Neckar bis nach Haßmersheim. Wo wir uns dann gegen 16:00 verköstigen lassen können. Gegen 17:30 können wir gemeinsamen den direkten Heimweg antreten. Genaue Streckenführung im Anhang, es sind ca. 85km. Rückfragen oder Anmelden gerne unter [info@juergen-kaefer.de](mailto:info@juergen-kaefer.de) oder [anrufen](tel:+4901743129599).
 
 Die geplante Route findet ihr hier: [Komoot-Route](https://www.komoot.com/de-DE/tour/1687604954?ref=itd&share_token=avlXzf1VCxFIRTwFJ6bkV0fQ9oRqdC4UAw6Vd4mqqFnGgqYTmX)
 
