@@ -43,21 +43,27 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
+    name       = "Über uns"
+    url        = "/de/verein/ueber_uns/"
+    weight     = 1
+    parent     = "menu.verein"
+
+[[menu.main]]
     name       = "Vorstand"
     url        = "/de/verein/vorstand/"
-    weight     = 1
+    weight     = 2
     parent     = "menu.verein"
 
 [[menu.main]]
     name       = "Satzung"
     url        = "/de/verein/satzung"
-    weight     = 2
+    weight     = 3
     parent     = "menu.verein"
 
 [[menu.main]]
     name       = "Satzung als PDF"
     url        = "https://entaroadunexecutar.github.io/CC2024-hugo-universal/de/verein/satzung.pdf"
-    weight     = 3
+    weight     = 4
     parent     = "menu.verein"
 
 #-------------------------------------------------------  Mitglied werden ------------
