@@ -1,5 +1,12 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="16" height="16" fill="white"/>
+<style>
+    .bg-fill { fill: white; }
+    @media (prefers-color-scheme: dark) {
+        .bg-fill { fill: black; }
+    }
+</style>
+<rect width="16" height="16" class="bg-fill" />
+<!--<rect width="16" height="16" fill="white"/> -->
 <circle cx="8" cy="8" r="3.5" fill="#C4EB67"/>
 <rect x="4" y="6.5" width="8" height="1" fill="#2800FF"/>
 <rect x="4" y="7.5" width="8" height="1" fill="#DFDFDF"/>
