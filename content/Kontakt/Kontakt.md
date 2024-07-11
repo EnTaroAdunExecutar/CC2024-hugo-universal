@@ -1,6 +1,6 @@
 +++
 title = "Kontakt"
-description = "Kontaktformular des Club Cyclist 2024"
+description = "Kontaktformular des Club Cycliste 2024"
 
 +++
 

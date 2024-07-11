@@ -1,6 +1,6 @@
 +++
 title = "Satzung"
-description = "Die Satzung des Club Cyclist 2024"
+description = "Die Satzung des Club Cycliste 2024"
 
 +++
 

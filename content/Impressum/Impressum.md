@@ -1,12 +1,12 @@
 +++
 title = "Impressum"
-description = "Impressum des Club Cyclist 2024"
+description = "Impressum des Club Cycliste 2024"
 
 +++
 
 # Impressum
 
-Club Cyclist 2024 e.V.
+Club Cycliste 2024 e.V.
 
 Blablastr. XYZ
 
