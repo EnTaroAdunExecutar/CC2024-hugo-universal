@@ -1,7 +1,7 @@
 baseURL = 'https://entaroadunexecutar.github.io/CC2024-hugo-universal/'
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
-title = 'Club Cyclist 2024 Eschelbronn'
+title = 'Club Cycliste 2024 Eschelbronn'
 
 theme = 'hugo-universal-theme'
 
@@ -96,7 +96,7 @@ pluralizelisttitles = false
 # better disable to prevent a flood of spam-mails
 [params.topbar]
     enable = true
-     text = """<p class="hidden-sm hidden-xs" style="font-size: 20px; color: #acd2b5; font-family: Roboto, Helvetica, Arial, sans-serif;">Club Cyclist 2024 Eschelbronn</p>
+     text = """<p class="hidden-sm hidden-xs" style="font-size: 20px; color: #acd2b5; font-family: Roboto, Helvetica, Arial, sans-serif;">Club Cycliste 2024 Eschelbronn</p>
      """
 #    text = """<p class="hidden-sm hidden-xs">Kontaktiert uns über kontakt@cc2024-eschelbronn.de</p>
 #      <p class="hidden-md hidden-lg"><a href="mailto:kontakt@cc2024-eschelbronn.de" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -126,12 +126,12 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
-    about_us = "<p>Das radelnde Schreinerdorf und sein Fahradverein - Club Cyclist 2024 Eschelbronn.</p>"
-    copyright = "Copyright (c) 2024, Club Cyclist 2024 Eschelbronn, alle Rechte vorbehalten."
+    about_us = "<p>Das radelnde Schreinerdorf und sein Fahradverein - Club Cycliste 2024 Eschelbronn.</p>"
+    copyright = "Copyright (c) 2024, Club Cycliste 2024 Eschelbronn, alle Rechte vorbehalten."
 
     # Logo
     disabled_logo = false
-    logo_text = "Club Cyclist 2024 - Eschelbronn"
+    logo_text = "Club Cycliste 2024 - Eschelbronn"
     logo = "Bilder/CCE_Wappen.png"
     logo_small = "Bilder/CCE_Wappen.png"
 
