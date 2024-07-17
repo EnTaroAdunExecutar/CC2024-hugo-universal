@@ -12,7 +12,7 @@ tags = ["Stadtradeln","2024"]
 # Ähnlich wie Tags gibt es noch Kategorieren - hab ich allerdings ausgeblendet
 categories = ["Stadtradeln"]
 
-# Bild welches unter den "Aktuellen Artikeln" angezeigt wird - muss 
+# Bild welches unter den "Aktuellen Artikeln" angezeigt wird. Das Bild muss allerdings unter /static/Bilder/<<bild>> existieren
 banner = "Bilder/logo-stadtradeln.png"
 # bei draft = true wird der Build-Prozess die Datei nicht berücksichtigen
 draft = false
