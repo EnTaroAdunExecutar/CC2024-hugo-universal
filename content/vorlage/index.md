@@ -28,9 +28,9 @@ Prinzipiell liegen alle Artikel im Ordner "posts" - in welchem ich einen Unteror
 
 Vorgehen:
 
-1. Neuen Unterordner anlegen -> /posts/2024/<<neuer_ordner>>
-2. /vorlage/<<index.md>> in den /posts/2024/<<neuen ordner>> kopieren
-3. Bilder ebenfalls in /posts/2024/<<neuen ordner>> kopieren
+1. Neuen Unterordner anlegen -> /content/posts/2024/<<neuer_ordner>>
+2. /vorlage/<<index.md>> in den /content/posts/2024/<<neuen ordner>> kopieren
+3. Bilder ebenfalls in /content/posts/2024/<<neuen ordner>> kopieren
 4. neuer_ordner/<<index.md>> editieren wie man möchte und Bilder verlinken
 5. (lokal testen mit vscode und hugo z.B.?)
 6. Auf Github pushen (speichern) damit es nach erfolgreichem Build-Prozess live ist
