@@ -1,6 +1,6 @@
 +++
 title = 'Stadtradel-Event & UBoot in HD '
-date = "2024-07-02T14:23:19+02:00"
+date = "2024-07-02T14:00:19+02:00"
 summary = "Das Stadtradel-Event 2024 hat auch dieses Jahr wieder viel zu bieten"
 
 authors = ["Tobias Karpstein"]
