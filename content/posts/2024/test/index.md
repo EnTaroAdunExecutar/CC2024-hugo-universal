@@ -15,3 +15,7 @@ draft = false
 Dies ist mein Text.
 
 Hier möchte ich einen Beitrag schreiben
+
+### Bild extra für Flöli
+
+{{< imgprocess "comic-bild.jpg" "resize 400x" "Flöli" >}}
