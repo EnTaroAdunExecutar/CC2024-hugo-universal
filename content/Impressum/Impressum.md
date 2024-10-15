@@ -8,7 +8,7 @@ description = "Impressum des Club Cycliste 2024"
 
 Club Cycliste 2024 e.V.
 
-Blablastr. XYZ
+Schulstrasse 25/1
 
 74927 Eschelbronn
 
@@ -16,18 +16,14 @@ Blablastr. XYZ
 
 Pasi Echner
 
-Telefon: +49 (0)6226-1234567
+Telefon: +49 (0)1578 - 1973400
 
-E-Mail: irgendwas @ cc23.de
+E-Mail: pasi.echner@gmx.de
 
 Registergericht: Amtsgericht Mannheim
 
-Registernummer: VR asdfasdf41364864
+Registernummer: in Gründung
 
 V.i.S.d § 18 Abs. 2 MStV
 
-XYZ
-
-Irgendwas str. 
-
-74927 Eschelbronn
+siehe oben
