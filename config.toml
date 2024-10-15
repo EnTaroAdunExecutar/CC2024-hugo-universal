@@ -132,7 +132,7 @@ pluralizelisttitles = false
     # Logo
     disabled_logo = false
     logo_text = "Club Cycliste 2024 - Eschelbronn"
-    logo = "Bilder/Eschelbronn_CCE_Banner.png"
+    logo = "Bilder/CCE_Banner.png"
     logo_small = "Bilder/CCE_Wappen.png"
 
     dropdown_mouse_over = true
