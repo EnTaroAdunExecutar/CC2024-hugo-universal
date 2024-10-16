@@ -27,20 +27,12 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-#------------------------------------------------------- Alle Artiekl ---------------
-
-[[menu.main]]
-    name       = "Alle Artikel"
-    identifier = "menu.artikel"
-    url        = "/de/posts/"
-    weight     = 2
-
 #------------------------------------------------------- Trainingszeiten ---------------
 [[menu.main]]
     name       = "Ausfahrten"
-    identifier = "menu.zeiten"
- #   url        = "/img/template-easy-customize.png"
-    weight     = 3
+    identifier = "menu.ausfahrten"
+    url        = "/de/ausfahrten/ausfahrten"
+    weight     = 2
 
 #------------------------------------------------------- VEREIN ---------------
 [[menu.main]]
@@ -86,6 +78,14 @@ pluralizelisttitles = false
     identifier = "menu.mitglied"
     url        = "https://entaroadunexecutar.github.io/CC2024-hugo-universal/de/mitglied_werden/cce_mitgliedsantrag.pdf"
     weight     = 4
+
+#------------------------------------------------------- Alle Artiekl ---------------
+
+[[menu.main]]
+    name       = "Alle Artikel"
+    identifier = "menu.artikel"
+    url        = "/de/posts/"
+    weight     = 5
 
 #-------------------------------------------------------  Impressum  ------------
 

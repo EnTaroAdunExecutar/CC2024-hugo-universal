@@ -24,7 +24,7 @@ Ab hier wird der Text wirklich angezeigt. Ich verwende den Text zur Erklärung b
 Wieso Markdown? Markdown ist eine Auszeichnungssprache, soll heißen im Vergleich zu Word welches proprietär Spezialzeichen verwendet um z.B. einen Text Fett zu machen -> was im Kontext einer Homepage erst übersetzt werden muss, macht man es mit Markdown explizit, siehe Beispiele unten. Dies hat den Vorteil das man unabhängig von einem Hersteller ist "fast" beliebige Software verwenden kann. Das Tooling welches ich für die HP verwende nutzt ebenfalls markdown als Input.
 
 Wie habe ich versucht etwas Struktur in die Artiekl zu bekommen?  
-Prinzipiell liegen alle Artikel im Ordner "posts" - in welchem ich einen Unterordner "2024" angelegt habe - nächstes Jahre dann "2025" usw... Wir können gerne diskutieren ob wir weitere Strukturen wie Monate oder Quartale benötigen. 
+Prinzipiell liegen alle Artikel im Ordner "posts" - in welchem ich einen Unterordner "2024" angelegt habe - nächstes Jahre dann "2025" usw... Wir können gerne diskutieren ob wir weitere Strukturen wie Monate oder Quartale benötigen.
 
 Vorgehen:
 
