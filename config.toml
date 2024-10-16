@@ -29,9 +29,9 @@ pluralizelisttitles = false
 
 #------------------------------------------------------- Trainingszeiten ---------------
 [[menu.main]]
-    name       = "Ausfahrten"
-    identifier = "menu.ausfahrten"
-    url        = "/de/ausfahrten/ausfahrten"
+    name       = "Aktivitäten"
+    identifier = "menu.aktivitaeten"
+    url        = "/de/aktivitaeten/aktivitaeten"
     weight     = 2
 
 #------------------------------------------------------- VEREIN ---------------
@@ -131,7 +131,7 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
-    about_us = "<p>Das radelnde Schreinerdorf und sein Fahradverein - Club Cycliste 2024 Eschelbronn.</p>"
+    about_us = "<p>Das radelnde Schreinerdorf und sein Fahrradverein - Club Cycliste 2024 Eschelbronn.</p>"
     copyright = "Copyright (c) 2024, Club Cycliste 2024 Eschelbronn, alle Rechte vorbehalten."
 
     # Logo

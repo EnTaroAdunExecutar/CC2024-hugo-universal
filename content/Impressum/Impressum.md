@@ -6,7 +6,7 @@ description = "Impressum des Club Cycliste 2024"
 
 # Impressum
 
-**Club Cycliste 2024 e.V.**
+**Club Cycliste 2024 Eschelbronn e.V.**
 
 Schulstrasse 25/1 - 74927 Eschelbronn
 
