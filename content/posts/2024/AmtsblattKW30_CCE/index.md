@@ -3,8 +3,7 @@ title = 'Einladung zu gemeinsamen Ausfahrten - immer mittwochs 18:00 Uhr'
 date = "2024-07-21T03:23:19+02:00"
 summary = "nachdem das Stadtradeln für dieses Jahr Geschichte ist, mag der ein oder andere der Teilnehmer vielleicht auf den Geschmack gekommen sein und sucht nach Möglichkeiten ..."
 authors = ["Pasi Echner"]
-tags = ["Stadtradeln","2024"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 banner = "Bilder/CCE_Wappen mit Schriftzug.png"
 draft = false

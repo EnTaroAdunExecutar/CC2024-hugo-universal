@@ -3,8 +3,7 @@ title = 'Amtsblattbericht KW 29 - CCE'
 date = "2024-07-15T03:23:19+02:00"
 summary = "Stadtradeln 2024 - Starkes Debut des CCE"
 authors = ["Pasi Echner"]
-tags = ["Stadtradeln","2024"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 banner = "Bilder/logo-stadtradeln.png"
 draft = false

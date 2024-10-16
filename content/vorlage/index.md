@@ -8,9 +8,7 @@ summary = "Zusammenfassung des Artikels"
 # daraus wird ein Link erzeugt der auf eine dedizierte Seite zeigt wo wir Infos über einen Autor haben können
 authors = ["Pasi Echner"]
 # rechts neben dem Artikel werden alle Tags aller Artiekl angezeigt - das kann man als Suche verwenden um z.B. alle Artiekel mit dem U-Boot 17 oder zum Stadtradeln 2024 zu finden --> hier sollten wir nicht zu viele Tags einführen und uns eine gewisse Struktur gönnen
-tags = ["Stadtradeln","2024"]
-# Ähnlich wie Tags gibt es noch Kategorieren - hab ich allerdings ausgeblendet
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 # Bild welches unter den "Aktuellen Artikeln" angezeigt wird. Das Bild muss allerdings unter /static/Bilder/<<bild>> existieren
 banner = "Bilder/logo-stadtradeln.png"

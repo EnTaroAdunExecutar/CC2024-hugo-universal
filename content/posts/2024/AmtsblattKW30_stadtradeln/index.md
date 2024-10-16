@@ -3,8 +3,7 @@ title = 'Stadtradeln 2024 - Die totale Dominanz! Eschelbronn im Stil eines Tadej
 date = "2024-07-21T02:23:19+02:00"
 summary = "Stadtradeln 2024 - STAT-ATTACK"
 authors = ["Pasi Echner"]
-tags = ["Stadtradeln","2024"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 banner = "Bilder/VeloVillageLogo.jpg"
 draft = false

@@ -4,8 +4,7 @@ date = "2024-07-02T14:00:19+02:00"
 summary = "Das Stadtradel-Event 2024 hat auch dieses Jahr wieder viel zu bieten"
 
 authors = ["Tobias Karpstein"]
-tags = ["Stadtradeln","Event","Uboot","U-17"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024","U-Boot 17"]
 
 banner = "Bilder/u17.jpg"
 draft = false

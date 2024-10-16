@@ -3,8 +3,7 @@ title = 'Stadtradelauftakt'
 date = "2024-06-21T03:23:19+02:00"
 summary = "Toller Auftakt zum „Stadtradeln 2024“ "
 authors = ["Roland Wolf"]
-tags = ["Stadtradeln","2024"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 banner = "Bilder/logo-stadtradeln.png"
 draft = false

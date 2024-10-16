@@ -3,7 +3,7 @@ title = 'CCE auf „Deutschland Tour“'
 date = "2024-08-26T03:23:19+02:00"
 summary = "... der Club Cycliste 2024 Eschelbronn e.V. war während der Deutschland Tour äußerst aktiv und zeigte Präsenz auf drei von vier Etappen. Am 22.08.2024 machte sich eine Delegation bestehend aus Roland Maier, Uwe Hartmann, Jörn Hartmann und Pasi Echner auf den Weg ans Jägerhaus nach Heilbronn ..."
 authors = ["Pasi Echner"]
-tags = ["Deutschland Tour"]
+tags = ["Deutschland Tour 2024"]
 
 banner = "Bilder/CCE_Wappen mit Schriftzug.png"
 draft = false

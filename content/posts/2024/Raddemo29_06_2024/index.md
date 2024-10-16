@@ -3,8 +3,7 @@ title = 'Raddemo und Radaktion in Sinsheim'
 date = "2024-06-26T10:23:19+02:00"
 summary = "Raddemo und Radaktion am Sa. 29. Juni 2024, 10:00 in Sinsheim"
 authors = ["Pasi Echner"]
-tags = ["Radaktion","Sinsheim"]
-categories = ["Radaktion"]
+tags = ["Radaktion-Sinsheim"]
 
 banner = "Bilder/alter_Sattel.jpg"
 draft = false

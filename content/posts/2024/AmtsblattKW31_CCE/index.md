@@ -3,8 +3,7 @@ title = 'CCE on Tour - Die „Cycling Ultras“ aus Eschelbronn'
 date = "2024-07-28T03:23:19+02:00"
 summary = "... der Club Cycliste 2024 Eschelbronn e.V. lädt wie jede Woche alle Radsport-Enthusiasten aus Eschelbronn und Umgebung zu seinen gemeinsamen Ausfahrten ein ..."
 authors = ["Pasi Echner"]
-tags = ["Cycling Ultras"]
-categories = ["Stadtradeln"]
+tags = ["Cycling Ultras","Stadtradeln-2024"]
 
 banner = "Bilder/CCE_Wappen mit Schriftzug.png"
 draft = false

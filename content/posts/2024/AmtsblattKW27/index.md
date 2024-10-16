@@ -3,8 +3,7 @@ title = 'Amtsblattbericht KW 27'
 date = "2024-07-02T03:23:19+02:00"
 summary = "Stadtradeln 2024 - Jahr für Jahr der gleiche Wahnsinn!"
 authors = ["Pasi Echner"]
-tags = ["Stadtradeln","2024"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024"]
 
 banner = "Bilder/logo-stadtradeln.png"
 draft = false

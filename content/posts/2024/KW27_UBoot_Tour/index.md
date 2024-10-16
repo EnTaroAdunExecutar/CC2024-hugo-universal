@@ -3,8 +3,7 @@ title = 'U-Boot 17 Tour'
 date = "2024-07-06T03:23:19+02:00"
 summary = "Spektakuläre Tour am Neckar zum U-Boot 17 am Dienstag 09.07.2024"
 authors = ["Juergen Kaefer"]
-tags = ["Stadtradeln","2024","U-Boot","U17"]
-categories = ["Stadtradeln"]
+tags = ["Stadtradeln-2024","U-Boot 17"]
 
 banner = "Bilder/U-Boot-banner.jpeg"
 draft = false

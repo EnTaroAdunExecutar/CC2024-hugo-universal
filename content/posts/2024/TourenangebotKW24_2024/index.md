@@ -3,8 +3,6 @@ title = 'Tourenangebot KW 24'
 date = "2024-06-30T10:23:19+02:00"
 summary = "Das Tourenangebot für nächste Woche ist äußerst umfangreich, da sollte für jeden etwas dabaei sein."
 authors = ["Pasi Echner"]
-tags = ["Touren"]
-categories = ["Touren"]
 
 banner = "Bilder/alter_Sattel.jpg"
 draft = false
