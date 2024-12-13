@@ -18,3 +18,4 @@ description = "Vorstände des Club Cycliste 2024"
 {{< imgprocess "Vorstand_CCE.jpg" "resize 600x" "Vorstände" >}}
 
 &nbsp;
+> von links: Roland Wolf, Jörn Hartmann, Pasi Echner, Florian Echner
