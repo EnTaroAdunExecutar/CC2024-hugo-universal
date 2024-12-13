@@ -4,6 +4,8 @@ geboren 1992 in Heidelberg
 
 {{< imgprocess "joern.jpg" "resize 400x r90" "Rad" >}}
 
+&nbsp;
+
 CCE Gründungsmitglied, 2. Vorstand und „sportlicher Genussfahrer“. Im Sommer auf dem Rennrad, im Winterhalbjahr auch auf dem MTB. Fan von Langstrecken, Serpentinen, Waldstraßen und langen Anstiegen.
 
 Trainingsrevier von Eschelbronn aus: Kraichgau, Kleiner Odenwald, Odenwald
