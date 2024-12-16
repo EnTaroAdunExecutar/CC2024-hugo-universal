@@ -21,6 +21,10 @@ Dann ging es auch schon wieder zurück ins Schreinerdorf und auf dem Fahrrad wur
 
 Aber der „Löwen“-Gastwirt Giannis hatte seine Wirtschaft gut aufgeheizt, wo für uns der gesamte Gastraum reserviert war. Der Platz war auch notwendig, denn es gesellten sich noch etwa 10 Vereinsmitglieder dazu, die nicht bei der Ausfahrt dabei waren, sodass wir am Ende fast mit der kompletten Vereinsmitgliedschaft den Jahresausklang feiern konnten.
 
-Vorstand Pasi Echner sprach bei seiner Begrüssung noch verschiedene Dinge rund um das Vereinsleben an, bevor dann Schriftführer Roland Wolf in Bildern die zurückliegende 20-jährige Eschelbronner Radsportgeschichte in Erinnerung rief. Und dabei war doch einiges geboten und man sah, dass schon lange vor der Vereinsgründung im Ort Rad gefahren wurde. 
+Vorstand Pasi Echner sprach bei seiner Begrüssung noch verschiedene Dinge rund um das Vereinsleben an, bevor dann Schriftführer Roland Wolf in Bildern die zurückliegende 20-jährige Eschelbronner Radsportgeschichte in Erinnerung rief. Und dabei war doch einiges geboten und man sah, dass schon lange vor der Vereinsgründung im Ort Rad gefahren wurde.
 
 Beim anschließenden Weihnachtsmenü saß die große Radsportfamilie noch lange zusammen und hatte sich einiges zu erzählen.
+
+Jetzt über den Winter werden sich nur die ganz hartgesottenen Radsportler auf den Sattel wagen, die nächsten gemeinsamen Ausfahrten werden im Frühjahr, wenn sich die ersten warmen Sonnenstrahlen blicken lassen, rechtzeitig angekündigt. Die Vorstandschaft des CCE wünscht allen Vereinsmitgliedern, aber auch der gesamten Bevölkerung eine ruhige Rest-Adventszeit, ein besinnliches Weihnachtsfest und einen guten Rutsch ins neue Jahr 2025.
+
+> Dann wollen wir wieder angreifen und die lange Eschelbronner Radsporthistorie nahtlos fortsetzen.
