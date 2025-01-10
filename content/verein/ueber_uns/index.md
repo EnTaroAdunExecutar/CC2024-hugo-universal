@@ -24,7 +24,7 @@ Der Vereinsname „Club Cycliste“ ist eine Hommage an die Wurzeln des Radsport
 
 Nach Erledigung verschiedener Formalien wie der Feststellung der Anwesenheit, der Wahl des Versammlungsleiters und dem Beschluss über die Vereinsgründung wurde auch die vorgelegte Vereinssatzung beschlossen. In das Vereinswappen wurde nach Genehmigung durch die Gemeinde das Eschelbronner Ortswappen integriert und der Schriftzug des Vereinsnamens schließt sich symbolisch wie eine Fahrradkette um ein Zahnrad.
 
-{{< imgprocess "CCE_Wappen.png" "resize 300x" "CCE Wappen" >}}
+{{< imgprocess "CCE_Wappen_schriftzug.png" "resize 300x" "CCE Wappen" >}}
 
 > Wappen des Club Cycliste 2024 Eschelbronn
 

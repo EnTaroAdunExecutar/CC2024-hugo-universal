@@ -2,7 +2,7 @@
 
 Gründungsmitglied und 1. Vorsitzender
 
-*Cycling Ultra, Radsporttraditionalist & Bewahrer der Radkultur*
+*Cycling Ultra, Radsport-Traditionalist & Bewahrer der Radkultur*
 
 Lebensmotto:
 
