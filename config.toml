@@ -125,7 +125,7 @@ pluralizelisttitles = false
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
-    about_us = "<p>Das radelnde Schreinerdorf und sein Fahrradverein - Club Cycliste 2024 Eschelbronn</p>"
+    about_us = "<p>Das radelnde Schreinerdorf und sein Fahrradverein - Club Cycliste 2024 Eschelbronn.</p>"
     copyright = "Copyright (c) 2024, Club Cycliste 2024 Eschelbronn, alle Rechte vorbehalten."
 
     # Logo
