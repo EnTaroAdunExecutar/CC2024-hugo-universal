@@ -7,7 +7,7 @@ description = "Termine und regelmäßige Ausfahrten"
 # Termine und regelmäßige Ausfahren
 
 ## Termine
-- Freitag, 30.05.2025, 19:00 Uhr	: Generalversammlung im Johannes-Reimann-Saal in der Alten Schule
+- Dienstag, 03.06.2025, 19:00 Uhr	: Generalversammlung im Johannes-Reimann-Saal in der Alten Schule
 - Sonntag, 07.12.2025	: Weihnachtsausfahrt mit anschließender Weihnachtsfeier
 
 ## Trainingszeiten
