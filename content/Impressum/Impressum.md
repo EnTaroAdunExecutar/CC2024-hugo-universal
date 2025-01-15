@@ -6,6 +6,8 @@ description = "Impressum des Club Cycliste 2024"
 
 # Impressum
 
+## Anschrift
+
 **Club Cycliste 2024 Eschelbronn e.V.**
 
 Schulstrasse 25/1 - 74927 Eschelbronn
@@ -18,10 +20,24 @@ Telefon: +49 (0)1578 - 1973400
 
 E-Mail: [pasi.echner@gmx.de](mailto:pasi.echner@gmx.de)
 
+Internetadresse: [https://www.cc2024-eschelbronn.de](https://cc2024-eschelbronn.de/)
+
+## Vertretungsberechtigter Vorstand nach § 26 BGB
+
+Pasi Echner (1. Vorsitzender)
+
+Anschrift s.o.
+
+## Verantwortlich im Sinne des § 5 Digitale-Dienste-Gesetz (DDG)
+
+Pasi Echner (1. Vorsitzender)
+
+Anschrift s.o.
+
+## Registereintrag
+
 Registergericht: Amtsgericht Mannheim
 
 Registernummer: in Gründung
 
-V.i.S.d § 18 Abs. 2 MStV
-
-siehe oben
+Rechtsform: eingetragener Verein (in Gründung)
