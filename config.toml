@@ -61,17 +61,21 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Satzung als PDF"
-    url        = "https://entaroadunexecutar.github.io/CC2024-hugo-universal/de/verein/satzung.pdf"
+    url        = "/de/verein/satzung.pdf"
     weight     = 4
     parent     = "menu.verein"
+[[menu.main.params]]
+    external = true
 
 #-------------------------------------------------------  Mitglied werden ------------
 
 [[menu.main]]
     name       = "Mitglied werden"
     identifier = "menu.mitglied"
-    url        = "https://entaroadunexecutar.github.io/CC2024-hugo-universal/de/mitglied_werden/cce_mitgliedsantrag.pdf"
+    url        = "/de/mitglied_werden/cce_mitgliedsantrag.pdf"
     weight     = 4
+[[menu.main.params]]
+    external = true
 
 #------------------------------------------------------- Alle Artiekl ---------------
 
