@@ -4,7 +4,7 @@ description = "Termine und regelmäßige Ausfahrten"
 
 +++
 
-# Termine und regelmäßige Ausfahren
+# Termine und regelmäßige Ausfahrten
 
 ## Termine
 - Dienstag, 03.06.2025, 19:00 Uhr	: Generalversammlung im Johannes-Reimann-Saal in der Alten Schule
