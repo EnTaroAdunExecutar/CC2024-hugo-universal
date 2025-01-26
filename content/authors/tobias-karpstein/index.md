@@ -1,12 +1,12 @@
 ## Tobias Karpstein
 
-Gründungsmitglied und regelmäßiger Arbeitspendler (mindestens 2x pro Woche 50 KM Pendelstrecke)
+Gründungsmitglied und regelmäßiger Arbeitspendler (mindestens 2x pro Woche 50 km Pendelstrecke)
 
 ### Saison-Statistiken
 
 Alle Statistiken sind GPS-erfasst
 
-| Jahr                | Strecke (km)     | &nbsp;&nbsp; Höhenmeter (m)    | Zeit             | Pace       |
+| Jahr                | Strecke (km)     | &nbsp;&nbsp; Höhenmeter (m)    | Zeit             | 	&#8960; km/h      |
 | :------------------ | ----------------:| ----------------: |----------------: |----------: |
 | &nbsp;              |                  |                   |                  |            |
 | **2024**            | 5.707,77         | 27.785            | 281 h 43 min     |&nbsp;&nbsp; 20,5 km/h   |
@@ -31,7 +31,7 @@ Alle Statistiken sind GPS-erfasst
 
 ### Rad-Equipment
 
-Der Trend geht zum Dritt Rad :)
+Der Trend geht zum Dritt-Rad :)
 
 1. Klassisches Pendel-Tracking-Rad mit Muskelkraft und Pinion-Getriebe
 2. Rennrad mit Campagnolo-Ausstattung

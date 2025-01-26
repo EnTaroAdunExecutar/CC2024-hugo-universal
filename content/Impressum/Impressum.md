@@ -18,7 +18,7 @@ Pasi Echner
 
 Telefon: +49 (0)1578 - 1973400
 
-E-Mail: [pasi.echner@gmx.de](mailto:pasi.echner@gmx.de)
+E-Mail: [kontakt@cc2024-eschelbronn.de](mailto:kontakt@cc2024-eschelbronn.de)
 
 Internetadresse: [https://www.cc2024-eschelbronn.de](https://cc2024-eschelbronn.de/)
 

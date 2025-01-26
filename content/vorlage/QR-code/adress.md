@@ -1,1 +1,1 @@
-www.cc2024-eschelronn.de
+www.cc2024-eschelbronn.de
