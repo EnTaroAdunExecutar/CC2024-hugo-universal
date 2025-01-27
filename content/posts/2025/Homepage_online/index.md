@@ -33,8 +33,8 @@ Wer viel mit dem Smartphone arbeitet und daher lieber einen QR-Code verwendet, k
 {{< imgprocess "cc2024-qr.png" "resize 200x" "QR-Code" >}}
 
 Auf der Homepage sind alle Artikel zu unseren geplanten bzw. bereits erfolgten Ausflügen einsehbar. Zusätzlich sind aktuelle Informationen über Aktivitäten wie
- -  unsere regelmäßigen Ausfahrtszeiten 
- - Sommer- sowie Winterfahrplan und 
+ - unsere regelmäßigen Ausfahrtszeiten
+ - Sommer- sowie Winterfahrplan und
  - Vereinstermine wie z.B. die Generalversammlung
 
 einsehbar.
