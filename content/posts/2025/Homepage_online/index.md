@@ -1,12 +1,12 @@
 +++
 title = 'Homepage vollständig online'
-date = "2025-01-26T03:23:19+02:00"
+date = "2025-01-27T03:23:19+02:00"
 summary = "... was lange währt, wird endlich gut ... so könnte das Motto der Homepage des Club Cycliste 2024 Eschelbronn lauten..."
 authors = ["Tobias Karpstein"]
 tags = ["Onlinepräsenz"]
 
 banner = "Bilder/CCE_Wappen.png"
-draft = true
+draft = false
 
 +++
 ## Homepage jetzt unter CC2024-Adresse erreichbar
@@ -33,8 +33,8 @@ Wer viel mit dem Smartphone arbeitet und daher lieber einen QR-Code verwendet, k
 {{< imgprocess "cc2024-qr.png" "resize 200x" "QR-Code" >}}
 
 Auf der Homepage sind alle Artikel zu unseren geplanten bzw. bereits erfolgten Ausflügen einsehbar. Zusätzlich sind aktuelle Informationen über Aktivitäten wie
- -  unsere regelmäßigen Ausfahrtszeiten 
- - Sommer- sowie Winterfahrplan und 
+ - unsere regelmäßigen Ausfahrtszeiten
+ - Sommer- sowie Winterfahrplan und
  - Vereinstermine wie z.B. die Generalversammlung
 
 einsehbar.
