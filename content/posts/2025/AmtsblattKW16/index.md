@@ -5,7 +5,7 @@ summary = "wir stecken zwar gerade noch in der schönsten Zeit für alle Radspor
 authors = ["Pasi Echner"]
 tags = ["Stadtradeln-2025"]
 
-banner = "Bilder/CCE_Wappen mit Schriftzug.png"
+banner = "Bilder/VeloVillageLogo.jpg"
 draft = false
 
 +++
