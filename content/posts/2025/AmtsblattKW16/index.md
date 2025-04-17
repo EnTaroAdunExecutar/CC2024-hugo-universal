@@ -1,6 +1,6 @@
 +++
 title = 'Stadtradeln 2025 - es geht weiter ... immer weiter!'
-date = "2025-04-14T03:23:19+02:00"
+date = "2025-04-14T03:24:19+02:00"
 summary = "wir stecken zwar gerade noch in der schönsten Zeit für alle Radsport-Romantiker - der Klassiker-Saison mit Rennen wie Mailand-Sanremo, der Flandernrundfahrt oder Paris-Roubaix -, doch auch bis zum diesjährigen Stadtradeln ist es gar nicht mehr so weit ..."
 authors = ["Pasi Echner"]
 tags = ["Stadtradeln-2025"]
