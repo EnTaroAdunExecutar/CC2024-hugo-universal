@@ -72,7 +72,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Mitglied werden"
     identifier = "menu.mitglied"
-    url        = "/de/mitglied_werden/cce_mitgliedsantrag.pdf"
+    url        = "/de/mitglied_werden/cce_mitgliedsantrag_2025.pdf"
     weight     = 4
 [[menu.main.params]]
     external = true
