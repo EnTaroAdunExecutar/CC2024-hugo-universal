@@ -11,7 +11,7 @@ draft = false
 +++
 ## Der CCE in einheitlichem Gewand
 
-LLiebe Vereinsmitglieder, liebe Radsportfreunde,
+Liebe Vereinsmitglieder, liebe Radsportfreunde,
 
 es hat zwar etwas gedauert, aber pünktlich zum Stadtradeln ist das neue, einheitliche Teamoutfit des Club Cycliste 2024 Eschelbronn fertig. Ab sofort ist man auf den Straßen und Radwegen des Kraichgaus, des Odenwaldes und weit darüber hinaus an unseren neuen Trikots zu erkennen. Der ein oder andere wurde auch schon darauf angesprochen: Man fällt also auf.
 
