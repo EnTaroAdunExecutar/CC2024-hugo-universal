@@ -15,9 +15,9 @@ Lebensmotto:
 Allesfahrer, mehr auf dem Rad als bei der Arbeit. Nie unter 10.000 Kilometer pro Jahr.
 
 ## Palmarès
-- **3x Weltmeister** Parlamentarier-Wertung Stadtradeln (2022, 2023, 2024)
+- **4x Weltmeister** Parlamentarier-Wertung Stadtradeln (2022, 2023, 2024, 2025)
 - **Europameister** Parlamentarier-Wertung Stadtradeln (2021)
-- **4x Deutscher Meister** Parlamentarier-Wertung Stadtradeln (2021, 2022, 2023, 2024)
+- **5x Deutscher Meister** Parlamentarier-Wertung Stadtradeln (2021, 2022, 2023, 2024, 2025)
 - **Sieger Einzelwertung Rhein-Neckar-Kreis** Stadtradeln (2022)
 - **4x Sieger Einzelwertung Eschelbronn** Stadtradeln (2021, 2022, 2023, 2024)
 - **29. Platz Master 2 Einzelstarter** 24h-Rennen Rad am Ring 2022 (14 Runden, 365 km, 7.700 hm)
