@@ -40,4 +40,4 @@ Registergericht: Amtsgericht Mannheim
 
 Registernummer: VR 704278	
 
-Rechtsform: eingetragener Verein
+Rechtsform: Eingetragener Verein
