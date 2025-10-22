@@ -16,7 +16,7 @@ description = "Termine und regelmäßige Ausfahrten"
 - Sonntag, 09:30 bis ca. 11:30 Uhr
     - Treffpunkt Marktplatz
     - Distanz und Durchschnittsgeschwindigkeit richten sich nach Zusammensetzung der Gruppe
-    
+      
 
 - Mittwoch, 16:00 bis ca. 18:00 Uhr
     - Treffpunkt Marktplatz, Nightride: Beleuchtung mitbringen
