@@ -38,6 +38,6 @@ Anschrift s.o.
 
 Registergericht: Amtsgericht Mannheim
 
-Registernummer: in Gründung
+Registernummer: VR 704278	
 
-Rechtsform: eingetragener Verein (in Gründung)
+Rechtsform: eingetragener Verein
