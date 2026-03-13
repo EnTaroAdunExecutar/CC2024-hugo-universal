@@ -15,7 +15,7 @@ description = "Termine und regelmäßige Ausfahrten"
 
 ### Winterfahrplan (01.10. bis 31.03)
 
-**Sonntag, 09:30 bis ca. 11:30 Uhr**
+**Sonntag, 09:00 bis ca. 11:00 Uhr**
   
 - Treffpunkt Marktplatz
 - Distanz und Durchschnittsgeschwindigkeit richten sich nach Zusammensetzung der Gruppe
@@ -33,7 +33,7 @@ description = "Termine und regelmäßige Ausfahrten"
 
 {{< line_break >}}
 
-**Sonntag, 09:30 bis ca. 11:30 Uhr**
+**Sonntag, 09:00 bis ca. 11:00 Uhr**
   
 - Treffpunkt Marktplatz
 - Rennradfraktion: ca. 50-60 km mit 25-28 km/h
