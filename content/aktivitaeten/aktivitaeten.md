@@ -32,8 +32,3 @@ description = "Termine und regelmäßige Ausfahrten"
 - Gruppo moderato: ca. 30-35 km mit 18-22 km/h
 
 {{< line_break >}}
-
-**Sonntag, 09:00 bis ca. 11:00 Uhr**
-  
-- Treffpunkt Marktplatz
-- Rennradfraktion: ca. 50-60 km mit 25-28 km/h
