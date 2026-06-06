@@ -8,7 +8,6 @@ description = "Termine und regelmäßige Ausfahrten"
 
 ## Termine
 
-- Freitag, 05.06.2026, 19:00 Uhr	: Generalversammlung im Johannes-Reimann-Saal in der Alten Schule
 - Sonntag, 06.12.2026	: Weihnachtsausfahrt mit anschließender Weihnachtsfeier
 
 ## Trainingszeiten
