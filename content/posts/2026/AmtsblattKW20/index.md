@@ -3,7 +3,7 @@ title = 'Stadtradeln 2026 - Auf den Sattel, fertig, los!'
 date = "2026-05-08T03:25:19+02:00"
 summary = "Vom 14. Juni bis 04. Juli dreht sich in Eschelbronn wieder alles ums Rad. Für drei Wochen herrscht Ausnahmezustand, und das Schreinerdorf wird wie jedes Jahr zum Vélo Village.  ..."
 authors = ["Pasi Echner"]
-tags = ["Stadtradeln"]
+tags = ["Stadtradeln-2026"]
 
 banner = "Bilder/VeloVillageLogo.jpg"
 draft = false
