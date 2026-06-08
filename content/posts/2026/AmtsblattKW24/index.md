@@ -11,7 +11,7 @@ draft = false
 +++
 ## Stadtradeln 2026 – Ziel DREI stellig oder sogar 2× DREI stellig
 
-Liebe Radoneure — und alle, die es werden möchten,
+Liebe Randonneure — und alle, die es werden möchten,
 
 im Stadtradelzeitraum möchten wir, wie von Pasi in der Jahresversammlung angekündigt, zu einer besonderen Herausforderung einladen: Eine große Ausfahrt mit der Möglichkeit, eine oder gleich zwei DREI stellige Streckenkilometer zu sammeln.
 
