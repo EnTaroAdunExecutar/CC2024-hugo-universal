@@ -19,7 +19,7 @@ Hierzu eine traurige Mitteilung: Leider wurde eines der gelben Räder, die unser
 
 Doch nun zum Wesentlichen: Die Traditionsteams befinden sich bereits in der Endphase der Vorbereitung und fiebern dem Start des Stadtradelns entgegen. In verschiedenen Trainingslagern brachten sie sich hierfür in Stellung. Eine Delegation des Club Cycliste war über Pfingsten in Bimbach, dem Wacken des Radsports, und absolvierte im Rahmen des Rhön Radmarathon verschiedene Distanzen.
 
-{{< imgprocess "RRM 2026_Campingplatz.jpg" "resize 400x" "Verpflegung" >}}
+{{< imgprocess "RRM2026_Campingplatz.jpg" "resize 400x" "Verpflegung" >}}
 
 > Uwe Hartmann und Emil Himmelhan füllen die Kohlenhydratspeicher für die Belastung des nächsten Tages.
 
