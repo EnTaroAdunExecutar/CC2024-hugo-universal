@@ -21,7 +21,7 @@ Bringen Sie Ihre Räder in Schuss, geben Sie Luft auf die Reifen, Fett auf die K
 
 {{< imgprocess "GR-Ausflug_2025-07-12.jpg" "resize 500x r180" "Verpflegung" >}}
 
-> Auf den Ultra-Distanzen, die die Eschelbronner Randonneure während des Stadtradelns zurücklegen, kommt einer bedarfsgerechten Verpflegung eine hohe Bedeutung zu. 
+> Auf den Ultra-Distanzen, die die Eschelbronner Randonneure während des Stadtradelns zurücklegen, kommt einer bedarfsgerechten Verpflegung eine hohe Bedeutung zu.
 
 Wurde Ihr Interesse geweckt, ein Teil der diesjährigen Erfolgsgeschichte zu sein? **Anmeldungen sind unter [www.stadtradeln.de/eschelbronn](https://www.stadtradeln.de/eschelbronn) möglich**. Schließen Sie sich entweder der Équipe Vélo Village Eschelbronn oder einem der Unterteams an und tun Sie etwas für sich selbst, Ihre Gesundheit, Ihr Dorf und die Umwelt.
 

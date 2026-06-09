@@ -5,7 +5,7 @@ summary = "im Stadtradelzeitraum möchten wir, wie von Pasi in der Jahresversamm
 authors = ["Tobias Karpstein"]
 tags = ["Stadtradeln-2026"]
 
-banner = "Bilder/logo-stadtradeln.png"
+banner = "Bilder/VeloVillageLogo.jpg"
 draft = false
 
 +++
@@ -29,7 +29,9 @@ im Stadtradelzeitraum möchten wir, wie von Pasi in der Jahresversammlung angek�
 > Beide Touren werden Rennradtauglich geplant, natürlich sind alle Rad typen willkommen
 
 ### Organisation & Anmeldung
+
 - Bitte Anmeldungen an Tobias Karpstein oder Pasi Echner (kurze Nachricht genügt).
 - **Tipp**: Für die 100 km Runden empfehlen sich genügend Getränke, etwas Nahrung und ein kleines Reparaturset (ggf. für die zweite Runde auffüllen)
 
 *Viele Grüße*
+Tobias Karpstein
