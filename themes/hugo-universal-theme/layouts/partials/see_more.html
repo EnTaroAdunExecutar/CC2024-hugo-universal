@@ -1,25 +1,23 @@
 {{ if isset .Site.Params "see_more" }}
 {{ if .Site.Params.see_more.enable }}
-<section class="bar background-image-fixed-2 no-mb color-white text-center">
+<section class="bar background-image-fixed-2 no-mb color-white text-center" style="padding: 30px 0;">
     <div class="dark-mask"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="icon icon-lg"><i class="{{ .Site.Params.see_more.icon }}"></i>
+                <h4 class="text-uppercase" style="margin-top: 0; margin-bottom: 15px;">{{ .Site.Params.see_more.title | markdownify }}</h4>
+                {{ with .Site.Params.see_more.iframe_url }}
+                <div style="width: auto !important; min-width: 375px; max-width: 415px; height: {{ $.Site.Params.see_more.iframe_height | default "300px" }}; margin: 0 auto;">
+                    <iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="{{ . }}"></iframe>
                 </div>
-                <h3 class="text-uppercase">{{ .Site.Params.see_more.title | markdownify }}</h3>
-                <p class="lead">{{ .Site.Params.see_more.subtitle | markdownify }}</p>
+                {{ end }}
+                {{ if .Site.Params.see_more.link_url }}
                 <p class="text-center">
-                    {{ with .Site.Params.see_more.link_url }}
-                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
-                    {{ end }}
-                        {{ with .Site.Params.see_more.link_text }}
-                        {{ . | markdownify }}
-                        {{ end }}
-                    {{ with .Site.Params.see_more.link_url }}
+                    <a href="{{ .Site.Params.see_more.link_url }}" class="btn btn-template-transparent-black btn-lg">
+                        {{ .Site.Params.see_more.link_text | markdownify }}
                     </a>
-                    {{ end }}
                 </p>
+                {{ end }}
             </div>
         </div>
     </div>
