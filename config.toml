@@ -155,11 +155,11 @@ pluralizelisttitles = false
     tags = true
     search = false
 
-### use this for something like a top news -> linking somewhere else
-[params.see_more]
+### STADTRADELN Live Statistics
+[params.stadtradeln]
     enable = true
-    icon = "fas fa-bicycle"
-    title = "Stadtradeln 2026"
-    subtitle = "Verfolgen Sie unsere Radelleistung live"
-    iframe_url = "https://login.stadtradeln.de/specials/radelmeter/team/5238?L=0"
-    iframe_height = "380px"
+    teams_title = "Team-Rankings im Rhein-Neckar-Kreis"
+    municipalities_title = "Gemeinde-Rankings im Rhein-Neckar-Kreis"
+    highlight_team = "Équipe Vélo Village Eschelbronn"
+    highlight_municipality = "Eschelbronn"
+    top_n = 20

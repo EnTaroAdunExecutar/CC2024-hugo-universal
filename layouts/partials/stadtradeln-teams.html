@@ -1,0 +1,76 @@
+{{/* Team Rankings Widget */}}
+{{ $data := $.Site.Data.stadtradeln_teams }}
+{{ $highlightTeam := .Site.Params.stadtradeln.highlight_team | default "Équipe Vélo Village Eschelbronn" }}
+{{ $topN := .Site.Params.stadtradeln.top_n | default 10 }}
+{{ $title := .Site.Params.stadtradeln.teams_title | default "Team-Rankings" }}
+
+<div class="stadtradeln-widget team-rankings">
+  <h4 class="widget-title">{{ $title }}</h4>
+
+  {{ with $data }}
+    <div class="widget-meta">
+      Stand: <time datetime="{{ .lastUpdate }}">{{ dateFormat "02.01.2006 15:04" .lastUpdate }} Uhr</time>
+    </div>
+
+    <div class="ranking-list">
+      {{ $topN := .Site.Params.stadtradeln.top_n | default 20 }}
+      {{ $ourTeam := "" }}
+      {{ $ourTeamRank := 0 }}
+
+      {{/* Find our team */}}
+      {{ range .teams }}
+        {{ if eq .name $highlightTeam }}
+          {{ $ourTeam = . }}
+          {{ $ourTeamRank = .rank }}
+        {{ end }}
+      {{ end }}
+
+      {{/* Determine which teams to show */}}
+      {{ $teamsToShow := slice }}
+      {{ if and $ourTeam (le $ourTeamRank $topN) }}
+        {{/* Eschelbronn is in top N, show top N */}}
+        {{ $teamsToShow = first $topN .teams }}
+      {{ else if $ourTeam }}
+        {{/* Eschelbronn is outside top N, center it */}}
+        {{ $halfWindow := div $topN 2 }}
+        {{ $startRank := sub $ourTeamRank $halfWindow }}
+        {{ if lt $startRank 1 }}
+          {{ $startRank = 1 }}
+        {{ end }}
+        {{ $endRank := add $startRank $topN }}
+        {{ range .teams }}
+          {{ if and (ge .rank $startRank) (lt .rank $endRank) }}
+            {{ $teamsToShow = $teamsToShow | append . }}
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{/* No Eschelbronn found, show top N */}}
+        {{ $teamsToShow = first $topN .teams }}
+      {{ end }}
+
+      {{ range $teamsToShow }}
+        {{ $isOurTeam := eq .name $highlightTeam }}
+        <div class="ranking-row{{ if $isOurTeam }} our-team{{ end }}">
+          <div class="rank-badge">{{ .rank }}</div>
+          <div class="team-info">
+            <div class="team-name">{{ .name }}</div>
+            <div class="team-stats">
+              <span class="stat">
+                <i class="fa fa-bicycle"></i> <strong>{{ .kmFormatted }}</strong>
+              </span>
+              <span class="stat">
+                <i class="fa fa-users"></i> {{ .activeRiders }} Radelnde
+              </span>
+              <span class="stat">
+                <i class="fa fa-list"></i> {{ .trips }} Fahrten
+              </span>
+              <span class="stat">
+                <i class="fa fa-tachometer"></i> {{ .kmPerHead }} km/Kopf
+              </span>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

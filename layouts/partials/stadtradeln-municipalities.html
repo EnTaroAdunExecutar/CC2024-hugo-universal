@@ -1,0 +1,82 @@
+{{/* Municipality Rankings Widget */}}
+{{ $data := $.Site.Data.stadtradeln_municipalities }}
+{{ $highlightMuni := .Site.Params.stadtradeln.highlight_municipality | default "Eschelbronn" }}
+{{ $topN := .Site.Params.stadtradeln.top_n | default 10 }}
+{{ $title := .Site.Params.stadtradeln.municipalities_title | default "Gemeinde-Rankings" }}
+
+<div class="stadtradeln-widget municipality-rankings">
+  <h4 class="widget-title">{{ $title }}</h4>
+
+  {{ with $data }}
+    <div class="widget-meta">
+      Stand: <time datetime="{{ .lastUpdate }}">{{ dateFormat "02.01.2006 15:04" .lastUpdate }} Uhr</time>
+    </div>
+
+    <div class="ranking-list">
+      {{ $topN := .Site.Params.stadtradeln.top_n | default 20 }}
+      {{ $ourMuni := "" }}
+      {{ $ourMuniRank := 0 }}
+
+      {{/* Find our municipality */}}
+      {{ range .municipalities }}
+        {{ if in .name $highlightMuni }}
+          {{ $ourMuni = . }}
+          {{ $ourMuniRank = .rank }}
+        {{ end }}
+      {{ end }}
+
+      {{/* Determine which municipalities to show */}}
+      {{ $munisToShow := slice }}
+      {{ if and $ourMuni (le $ourMuniRank $topN) }}
+        {{/* Eschelbronn is in top N, show top N */}}
+        {{ $munisToShow = first $topN .municipalities }}
+      {{ else if $ourMuni }}
+        {{/* Eschelbronn is outside top N, center it */}}
+        {{ $halfWindow := div $topN 2 }}
+        {{ $startRank := sub $ourMuniRank $halfWindow }}
+        {{ if lt $startRank 1 }}
+          {{ $startRank = 1 }}
+        {{ end }}
+        {{ $endRank := add $startRank $topN }}
+        {{ range .municipalities }}
+          {{ if and (ge .rank $startRank) (lt .rank $endRank) }}
+            {{ $munisToShow = $munisToShow | append . }}
+          {{ end }}
+        {{ end }}
+      {{ else }}
+        {{/* No Eschelbronn found, show top N */}}
+        {{ $munisToShow = first $topN .municipalities }}
+      {{ end }}
+
+      {{ range $munisToShow }}
+        {{ $isOurMuni := in .name $highlightMuni }}
+        <div class="ranking-row{{ if $isOurMuni }} our-team{{ end }}">
+          <div class="rank-badge">{{ .rank }}</div>
+          <div class="team-info">
+            <div class="team-name">
+              {{ if .url }}
+                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+              {{ else }}
+                {{ .name }}
+              {{ end }}
+            </div>
+            <div class="team-stats">
+              <span class="stat">
+                <i class="fa fa-bicycle"></i> <strong>{{ .kmFormatted }}</strong>
+              </span>
+              <span class="stat">
+                <i class="fa fa-list"></i> {{ .trips }} Fahrten
+              </span>
+              <span class="stat">
+                <i class="fa fa-users"></i> {{ printf "%.2f" .kmPerInhabitant }} km/Einw.
+              </span>
+              <span class="stat">
+                <i class="fa fa-home"></i> {{ .population }} Einw.
+              </span>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

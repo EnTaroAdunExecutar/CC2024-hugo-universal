@@ -1,0 +1,60 @@
+name: Update STADTRADELN Data
+
+on:
+  schedule:
+    # Run every 6 hours (at 1 AM, 7 AM, 1 PM, 7 PM UTC)
+    - cron: '0 1,7,13,19 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: |
+          python scripts/scrape_stadtradeln.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet static/data/ data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in data files"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in data files"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/data/stadtradeln_teams.json static/data/stadtradeln_municipalities.json
+          git add data/stadtradeln_teams.json data/stadtradeln_municipalities.json
+          git commit -m "Update STADTRADELN data - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: No changes
+        if: steps.check_changes.outputs.changed == 'false'
+        run: |
+          echo "Data has not changed since last update. Skipping commit."
