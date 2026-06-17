@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -53,6 +54,15 @@ jobs:
           git add data/stadtradeln_teams.json data/stadtradeln_municipalities.json
           git commit -m "Update STADTRADELN data - $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Trigger Hugo build
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/hugo.yaml/dispatches \
+            -d '{"ref":"master"}'
 
       - name: No changes
         if: steps.check_changes.outputs.changed == 'false'
