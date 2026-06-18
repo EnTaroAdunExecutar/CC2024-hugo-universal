@@ -8,6 +8,7 @@ import requests
 import json
 import re
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from bs4 import BeautifulSoup
 
@@ -302,7 +303,7 @@ def main():
     print("STADTRADELN Data Scraper")
     print("=" * 50)
 
-    timestamp = datetime.now().astimezone().replace(microsecond=0).isoformat()
+    timestamp = datetime.now(ZoneInfo("Europe/Berlin")).replace(microsecond=0).isoformat()
     source_url = "https://www.stadtradeln.de/rhein-neckar-kreis"
 
     # Fetch and parse team rankings
