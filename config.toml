@@ -24,7 +24,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/"
+    url        = "/de/"
     weight     = 1
 
 #------------------------------------------------------- Trainingszeiten ---------------
@@ -163,3 +163,13 @@ pluralizelisttitles = false
     highlight_team = "Équipe Vélo Village Eschelbronn"
     highlight_municipality = "Eschelbronn"
     top_n = 20
+
+### STADTRADELN Carousel Configuration
+[params.stadtradeln.carousel]
+    enable = true
+    autoplay = true
+    slide_speed = 5000
+    show_flyer = true
+    flyer_title = 'Radmarathon für Jedermann'
+    flyer_date = '28. Juni 2026'
+    flyer_link = '/de/posts/2026/amtsblattkw26_2/'
