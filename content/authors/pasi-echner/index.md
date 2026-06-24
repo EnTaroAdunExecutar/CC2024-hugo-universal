@@ -12,7 +12,7 @@ Lebensmotto:
 
 &nbsp;
 
-Allesfahrer, mehr auf dem Rad als bei der Arbeit. Nie unter 10.000 Kilometer pro Jahr.
+Allesfahrer. Verkappter Radprofi, da mehr auf dem Rad als bei der Arbeit. Nie unter 10.000 Kilometer pro Jahr.
 
 ## Palmarès
 - **4x Weltmeister** Parlamentarier-Wertung Stadtradeln (2022, 2023, 2024, 2025)
