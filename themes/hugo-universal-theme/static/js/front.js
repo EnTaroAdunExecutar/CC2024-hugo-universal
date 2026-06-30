@@ -133,24 +133,6 @@ function sliders () {
       }
     })
   }
-
-  /* STADTRADELN Carousel */
-  if ($('.stadtradeln-carousel').length) {
-    $('.stadtradeln-carousel').owlCarousel({
-      navigation: true,
-      navigationText: [
-        '<i class="fas fa-angle-left"></i>',
-        '<i class="fas fa-angle-right"></i>'
-      ],
-      slideSpeed: 500,
-      paginationSpeed: 800,
-      autoPlay: 5000,
-      stopOnHover: true,
-      singleItem: true,
-      autoHeight: false,
-      pagination: true
-    })
-  }
 }
 
 /* menu sliding */
