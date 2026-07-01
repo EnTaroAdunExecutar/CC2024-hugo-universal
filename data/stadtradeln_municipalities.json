@@ -1,43 +1,43 @@
 {
-  "lastUpdate": "2026-07-01T12:44:43+02:00",
+  "lastUpdate": "2026-07-01T17:46:52+02:00",
   "source": "https://www.stadtradeln.de/rhein-neckar-kreis",
   "municipalities": [
     {
       "rank": 1,
       "name": "Weinheim im Rhein-Neckar-Kreis",
-      "km": 138743,
-      "kmFormatted": "138.743 km",
-      "trips": 16284,
+      "km": 140952,
+      "kmFormatted": "140.952 km",
+      "trips": 16584,
       "kmPerInhabitant": 0.68,
       "population": 45852,
       "url": "https://www.stadtradeln.de/weinheim"
     },
     {
       "rank": 2,
-      "name": "Hockenheim im Rhein-Neckar-Kreis",
-      "km": 101494,
-      "kmFormatted": "101.494 km",
-      "trips": 12011,
-      "kmPerInhabitant": 0.0,
-      "population": 21631,
-      "url": "https://www.stadtradeln.de/hockenheim"
-    },
-    {
-      "rank": 3,
       "name": "Ladenburg im Rhein-Neckar-Kreis",
-      "km": 98947,
-      "kmFormatted": "98.947 km",
-      "trips": 8356,
+      "km": 103440,
+      "kmFormatted": "103.440 km",
+      "trips": 8517,
       "kmPerInhabitant": 0.0,
       "population": 12500,
       "url": "https://www.stadtradeln.de/ladenburg"
     },
     {
+      "rank": 3,
+      "name": "Hockenheim im Rhein-Neckar-Kreis",
+      "km": 103008,
+      "kmFormatted": "103.008 km",
+      "trips": 12226,
+      "kmPerInhabitant": 0.0,
+      "population": 21631,
+      "url": "https://www.stadtradeln.de/hockenheim"
+    },
+    {
       "rank": 4,
       "name": "Wiesloch im Rhein-Neckar-Kreis",
-      "km": 93680,
-      "kmFormatted": "93.680 km",
-      "trips": 6775,
+      "km": 94906,
+      "kmFormatted": "94.906 km",
+      "trips": 6884,
       "kmPerInhabitant": 7.09,
       "population": 27665,
       "url": "https://www.stadtradeln.de/wiesloch"
@@ -45,69 +45,69 @@
     {
       "rank": 5,
       "name": "Walldorf im Rhein-Neckar-Kreis",
-      "km": 85678,
-      "kmFormatted": "85.678 km",
-      "trips": 9602,
-      "kmPerInhabitant": 13.76,
+      "km": 86373,
+      "kmFormatted": "86.373 km",
+      "trips": 9694,
+      "kmPerInhabitant": 13.78,
       "population": 16220,
       "url": "https://www.stadtradeln.de/walldorf"
     },
     {
       "rank": 6,
       "name": "Sinsheim im Rhein-Neckar-Kreis",
-      "km": 84443,
-      "kmFormatted": "84.443 km",
-      "trips": 5707,
-      "kmPerInhabitant": 11.21,
+      "km": 85406,
+      "kmFormatted": "85.406 km",
+      "trips": 5805,
+      "kmPerInhabitant": 11.35,
       "population": 37000,
       "url": "https://www.stadtradeln.de/sinsheim"
     },
     {
       "rank": 7,
       "name": "Schwetzingen im Rhein-Neckar-Kreis",
-      "km": 70947,
-      "kmFormatted": "70.947 km",
-      "trips": 7187,
-      "kmPerInhabitant": 3.29,
+      "km": 72098,
+      "kmFormatted": "72.098 km",
+      "trips": 7291,
+      "kmPerInhabitant": 3.61,
       "population": 21767,
       "url": "https://www.stadtradeln.de/schwetzingen"
     },
     {
       "rank": 8,
       "name": "Eberbach im Rhein-Neckar-Kreis",
-      "km": 61993,
-      "kmFormatted": "61.993 km",
-      "trips": 4415,
-      "kmPerInhabitant": 3.11,
+      "km": 62631,
+      "kmFormatted": "62.631 km",
+      "trips": 4469,
+      "kmPerInhabitant": 3.64,
       "population": 14760,
       "url": "https://www.stadtradeln.de/eberbach"
     },
     {
       "rank": 9,
       "name": "Eschelbronn im Rhein-Neckar-Kreis",
-      "km": 60917,
-      "kmFormatted": "60.917 km",
-      "trips": 2706,
-      "kmPerInhabitant": 234.87,
+      "km": 61447,
+      "kmFormatted": "61.447 km",
+      "trips": 2731,
+      "kmPerInhabitant": 236.59,
       "population": 2781,
       "url": "https://www.stadtradeln.de/eschelbronn"
     },
     {
       "rank": 10,
       "name": "Eppelheim im Rhein-Neckar-Kreis",
-      "km": 59088,
-      "kmFormatted": "59.088 km",
-      "trips": 6983,
-      "kmPerInhabitant": 42.87,
+      "km": 59890,
+      "kmFormatted": "59.890 km",
+      "trips": 7102,
+      "kmPerInhabitant": 42.98,
       "population": 16046,
       "url": "https://www.stadtradeln.de/eppelheim"
     },
     {
       "rank": 11,
       "name": "Neckargemünd im Rhein-Neckar-Kreis",
-      "km": 58779,
-      "kmFormatted": "58.779 km",
-      "trips": 4660,
+      "km": 59827,
+      "kmFormatted": "59.827 km",
+      "trips": 4742,
       "kmPerInhabitant": 0.19,
       "population": 13595,
       "url": "https://www.stadtradeln.de/neckargemuend"
@@ -115,9 +115,9 @@
     {
       "rank": 12,
       "name": "Brühl/Baden im Rhein-Neckar-Kreis",
-      "km": 52401,
-      "kmFormatted": "52.401 km",
-      "trips": 4488,
+      "km": 53943,
+      "kmFormatted": "53.943 km",
+      "trips": 4702,
       "kmPerInhabitant": 2.25,
       "population": 14624,
       "url": "https://www.stadtradeln.de/bruehl-baden"
@@ -125,9 +125,9 @@
     {
       "rank": 13,
       "name": "Hirschberg im Rhein-Neckar-Kreis",
-      "km": 50549,
-      "kmFormatted": "50.549 km",
-      "trips": 4191,
+      "km": 50911,
+      "kmFormatted": "50.911 km",
+      "trips": 4221,
       "kmPerInhabitant": 0.0,
       "population": 9550,
       "url": "https://www.stadtradeln.de/hirschberg"
@@ -135,9 +135,9 @@
     {
       "rank": 14,
       "name": "Ketsch im Rhein-Neckar-Kreis",
-      "km": 48659,
-      "kmFormatted": "48.659 km",
-      "trips": 3952,
+      "km": 49324,
+      "kmFormatted": "49.324 km",
+      "trips": 4011,
       "kmPerInhabitant": 0.0,
       "population": 13007,
       "url": "https://www.stadtradeln.de/ketsch"
@@ -145,19 +145,19 @@
     {
       "rank": 15,
       "name": "Schriesheim im Rhein-Neckar-Kreis",
-      "km": 43361,
-      "kmFormatted": "43.361 km",
-      "trips": 4457,
-      "kmPerInhabitant": 13.52,
+      "km": 43985,
+      "kmFormatted": "43.985 km",
+      "trips": 4548,
+      "kmPerInhabitant": 13.55,
       "population": 15331,
       "url": "https://www.stadtradeln.de/schriesheim"
     },
     {
       "rank": 16,
       "name": "Heddesheim im Rhein-Neckar-Kreis",
-      "km": 43318,
-      "kmFormatted": "43.318 km",
-      "trips": 2787,
+      "km": 43938,
+      "kmFormatted": "43.938 km",
+      "trips": 2824,
       "kmPerInhabitant": 1.81,
       "population": 12343,
       "url": "https://www.stadtradeln.de/heddesheim"
@@ -165,19 +165,19 @@
     {
       "rank": 17,
       "name": "Sandhausen im Rhein-Neckar-Kreis",
-      "km": 39930,
-      "kmFormatted": "39.930 km",
-      "trips": 4288,
-      "kmPerInhabitant": 1.18,
+      "km": 40414,
+      "kmFormatted": "40.414 km",
+      "trips": 4344,
+      "kmPerInhabitant": 1.2,
       "population": 15500,
       "url": "https://www.stadtradeln.de/sandhausen"
     },
     {
       "rank": 18,
       "name": "Edingen-Neckarhausen im Rhein-Neckar-Kreis",
-      "km": 37172,
-      "kmFormatted": "37.172 km",
-      "trips": 3813,
+      "km": 37646,
+      "kmFormatted": "37.646 km",
+      "trips": 3861,
       "kmPerInhabitant": 0.58,
       "population": 14612,
       "url": "https://www.stadtradeln.de/edingen-neckarhausen"
@@ -185,9 +185,9 @@
     {
       "rank": 19,
       "name": "St. Leon-Rot im Rhein-Neckar-Kreis",
-      "km": 35901,
-      "kmFormatted": "35.901 km",
-      "trips": 2745,
+      "km": 36320,
+      "kmFormatted": "36.320 km",
+      "trips": 2795,
       "kmPerInhabitant": 0.12,
       "population": 14036,
       "url": "https://www.stadtradeln.de/st-leon-rot"
@@ -195,19 +195,19 @@
     {
       "rank": 20,
       "name": "Dossenheim im Rhein-Neckar-Kreis",
-      "km": 35113,
-      "kmFormatted": "35.113 km",
-      "trips": 4398,
-      "kmPerInhabitant": 12.12,
+      "km": 35565,
+      "kmFormatted": "35.565 km",
+      "trips": 4471,
+      "kmPerInhabitant": 12.2,
       "population": 12543,
       "url": "https://www.stadtradeln.de/dossenheim"
     },
     {
       "rank": 21,
       "name": "Neulußheim im Rhein-Neckar-Kreis",
-      "km": 33394,
-      "kmFormatted": "33.394 km",
-      "trips": 2287,
+      "km": 34167,
+      "kmFormatted": "34.167 km",
+      "trips": 2328,
       "kmPerInhabitant": 2.06,
       "population": 7300,
       "url": "https://www.stadtradeln.de/neulussheim"
@@ -215,9 +215,9 @@
     {
       "rank": 22,
       "name": "Helmstadt-Bargen im Rhein-Neckar-Kreis",
-      "km": 31598,
-      "kmFormatted": "31.598 km",
-      "trips": 1962,
+      "km": 31763,
+      "kmFormatted": "31.763 km",
+      "trips": 1971,
       "kmPerInhabitant": 1.62,
       "population": 3923,
       "url": "https://www.stadtradeln.de/helmstadt-bargen"
@@ -225,9 +225,9 @@
     {
       "rank": 23,
       "name": "Laudenbach im Rhein-Neckar-Kreis",
-      "km": 26090,
-      "kmFormatted": "26.090 km",
-      "trips": 2236,
+      "km": 26542,
+      "kmFormatted": "26.542 km",
+      "trips": 2308,
       "kmPerInhabitant": 0.0,
       "population": 6556,
       "url": "https://www.stadtradeln.de/laudenbach"
@@ -235,19 +235,19 @@
     {
       "rank": 24,
       "name": "Meckesheim im Rhein-Neckar-Kreis",
-      "km": 22113,
-      "kmFormatted": "22.113 km",
-      "trips": 1425,
-      "kmPerInhabitant": 0.82,
+      "km": 22745,
+      "kmFormatted": "22.745 km",
+      "trips": 1461,
+      "kmPerInhabitant": 0.84,
       "population": 5400,
       "url": "https://www.stadtradeln.de/meckesheim"
     },
     {
       "rank": 25,
       "name": "Leimen im Rhein-Neckar-Kreis",
-      "km": 21785,
-      "kmFormatted": "21.785 km",
-      "trips": 2280,
+      "km": 22112,
+      "kmFormatted": "22.112 km",
+      "trips": 2316,
       "kmPerInhabitant": 0.0,
       "population": 26873,
       "url": "https://www.stadtradeln.de/leimen"
@@ -255,9 +255,9 @@
     {
       "rank": 26,
       "name": "Plankstadt im Rhein-Neckar-Kreis",
-      "km": 18998,
-      "kmFormatted": "18.998 km",
-      "trips": 2130,
+      "km": 19128,
+      "kmFormatted": "19.128 km",
+      "trips": 2150,
       "kmPerInhabitant": 5.13,
       "population": 10720,
       "url": "https://www.stadtradeln.de/plankstadt"
@@ -265,9 +265,9 @@
     {
       "rank": 27,
       "name": "Neidenstein im Rhein-Neckar-Kreis",
-      "km": 18827,
-      "kmFormatted": "18.827 km",
-      "trips": 780,
+      "km": 18971,
+      "kmFormatted": "18.971 km",
+      "trips": 787,
       "kmPerInhabitant": 23.19,
       "population": 1750,
       "url": "https://www.stadtradeln.de/neidenstein"
@@ -275,9 +275,9 @@
     {
       "rank": 28,
       "name": "Rauenberg im Rhein-Neckar-Kreis",
-      "km": 17303,
-      "kmFormatted": "17.303 km",
-      "trips": 1350,
+      "km": 17428,
+      "kmFormatted": "17.428 km",
+      "trips": 1359,
       "kmPerInhabitant": 0.52,
       "population": 8728,
       "url": "https://www.stadtradeln.de/rauenberg"
@@ -285,9 +285,9 @@
     {
       "rank": 29,
       "name": "Oftersheim im Rhein-Neckar-Kreis",
-      "km": 17071,
-      "kmFormatted": "17.071 km",
-      "trips": 1558,
+      "km": 17165,
+      "kmFormatted": "17.165 km",
+      "trips": 1567,
       "kmPerInhabitant": 0.15,
       "population": 12272,
       "url": "https://www.stadtradeln.de/oftersheim"
@@ -295,9 +295,9 @@
     {
       "rank": 30,
       "name": "Schönau im Rhein-Neckar-Kreis",
-      "km": 15806,
-      "kmFormatted": "15.806 km",
-      "trips": 914,
+      "km": 15968,
+      "kmFormatted": "15.968 km",
+      "trips": 925,
       "kmPerInhabitant": 0.0,
       "population": 4330,
       "url": "https://www.stadtradeln.de/schoenau"
@@ -305,9 +305,9 @@
     {
       "rank": 31,
       "name": "Nußloch im Rhein-Neckar-Kreis",
-      "km": 14888,
-      "kmFormatted": "14.888 km",
-      "trips": 1146,
+      "km": 15332,
+      "kmFormatted": "15.332 km",
+      "trips": 1166,
       "kmPerInhabitant": 1.79,
       "population": 11397,
       "url": "https://www.stadtradeln.de/nussloch"
@@ -315,9 +315,9 @@
     {
       "rank": 32,
       "name": "Dielheim im Rhein-Neckar-Kreis",
-      "km": 14084,
-      "kmFormatted": "14.084 km",
-      "trips": 950,
+      "km": 14215,
+      "kmFormatted": "14.215 km",
+      "trips": 963,
       "kmPerInhabitant": 0.0,
       "population": 910,
       "url": "https://www.stadtradeln.de/dielheim"
@@ -325,9 +325,9 @@
     {
       "rank": 33,
       "name": "Ilvesheim im Rhein-Neckar-Kreis",
-      "km": 14040,
-      "kmFormatted": "14.040 km",
-      "trips": 1432,
+      "km": 14155,
+      "kmFormatted": "14.155 km",
+      "trips": 1447,
       "kmPerInhabitant": 0.0,
       "population": 9254,
       "url": "https://www.stadtradeln.de/ilvesheim"
@@ -335,9 +335,9 @@
     {
       "rank": 34,
       "name": "Schönbrunn im Rhein-Neckar-Kreis",
-      "km": 13930,
-      "kmFormatted": "13.930 km",
-      "trips": 532,
+      "km": 14053,
+      "kmFormatted": "14.053 km",
+      "trips": 535,
       "kmPerInhabitant": 0.0,
       "population": 2963,
       "url": "https://www.stadtradeln.de/schoenbrunn"
@@ -345,9 +345,9 @@
     {
       "rank": 35,
       "name": "Waibstadt im Rhein-Neckar-Kreis",
-      "km": 12948,
-      "kmFormatted": "12.948 km",
-      "trips": 796,
+      "km": 13028,
+      "kmFormatted": "13.028 km",
+      "trips": 803,
       "kmPerInhabitant": 5.0,
       "population": 5803,
       "url": "https://www.stadtradeln.de/waibstadt"
@@ -355,9 +355,9 @@
     {
       "rank": 36,
       "name": "Mühlhausen im Rhein-Neckar-Kreis",
-      "km": 11400,
-      "kmFormatted": "11.400 km",
-      "trips": 694,
+      "km": 11554,
+      "kmFormatted": "11.554 km",
+      "trips": 702,
       "kmPerInhabitant": 0.0,
       "population": 8767,
       "url": "https://www.stadtradeln.de/muehlhausen"
@@ -365,9 +365,9 @@
     {
       "rank": 37,
       "name": "Mauer im Rhein-Neckar-Kreis",
-      "km": 11386,
-      "kmFormatted": "11.386 km",
-      "trips": 667,
+      "km": 11494,
+      "kmFormatted": "11.494 km",
+      "trips": 677,
       "kmPerInhabitant": 21.33,
       "population": 4075,
       "url": "https://www.stadtradeln.de/mauer"
@@ -375,9 +375,9 @@
     {
       "rank": 38,
       "name": "Reilingen im Rhein-Neckar-Kreis",
-      "km": 11006,
-      "kmFormatted": "11.006 km",
-      "trips": 1555,
+      "km": 11314,
+      "kmFormatted": "11.314 km",
+      "trips": 1602,
       "kmPerInhabitant": 0.0,
       "population": 8244,
       "url": "https://www.stadtradeln.de/reilingen"
@@ -385,9 +385,9 @@
     {
       "rank": 39,
       "name": "Neckarbischofsheim im Rhein-Neckar-Kreis",
-      "km": 10387,
-      "kmFormatted": "10.387 km",
-      "trips": 913,
+      "km": 10588,
+      "kmFormatted": "10.588 km",
+      "trips": 940,
       "kmPerInhabitant": 0.0,
       "population": 4195,
       "url": "https://www.stadtradeln.de/neckarbischofsheim"
@@ -395,9 +395,9 @@
     {
       "rank": 40,
       "name": "Malsch im Rhein-Neckar-Kreis",
-      "km": 10194,
-      "kmFormatted": "10.194 km",
-      "trips": 872,
+      "km": 10320,
+      "kmFormatted": "10.320 km",
+      "trips": 881,
       "kmPerInhabitant": 3.29,
       "population": 3524,
       "url": "https://www.stadtradeln.de/malsch-weinort"
@@ -405,9 +405,9 @@
     {
       "rank": 41,
       "name": "Altlußheim im Rhein-Neckar-Kreis",
-      "km": 9331,
-      "kmFormatted": "9.331 km",
-      "trips": 817,
+      "km": 9597,
+      "kmFormatted": "9.597 km",
+      "trips": 832,
       "kmPerInhabitant": 3.05,
       "population": 6416,
       "url": "https://www.stadtradeln.de/altlussheim"
@@ -415,19 +415,19 @@
     {
       "rank": 42,
       "name": "Hemsbach im Rhein-Neckar-Kreis",
-      "km": 8454,
-      "kmFormatted": "8.454 km",
-      "trips": 1094,
-      "kmPerInhabitant": 0.3,
+      "km": 8723,
+      "kmFormatted": "8.723 km",
+      "trips": 1116,
+      "kmPerInhabitant": 0.32,
       "population": 11987,
       "url": "https://www.stadtradeln.de/hemsbach"
     },
     {
       "rank": 43,
       "name": "Lobbach im Rhein-Neckar-Kreis",
-      "km": 8444,
-      "kmFormatted": "8.444 km",
-      "trips": 424,
+      "km": 8646,
+      "kmFormatted": "8.646 km",
+      "trips": 430,
       "kmPerInhabitant": 0.0,
       "population": 232,
       "url": "https://www.stadtradeln.de/lobbach"
@@ -435,9 +435,9 @@
     {
       "rank": 44,
       "name": "Angelbachtal im Rhein-Neckar-Kreis",
-      "km": 8363,
-      "kmFormatted": "8.363 km",
-      "trips": 908,
+      "km": 8428,
+      "kmFormatted": "8.428 km",
+      "trips": 913,
       "kmPerInhabitant": 0.0,
       "population": 5200,
       "url": "https://www.stadtradeln.de/angelbachtal"
@@ -445,9 +445,9 @@
     {
       "rank": 45,
       "name": "Epfenbach im Rhein-Neckar-Kreis",
-      "km": 8073,
-      "kmFormatted": "8.073 km",
-      "trips": 354,
+      "km": 8085,
+      "kmFormatted": "8.085 km",
+      "trips": 356,
       "kmPerInhabitant": 0.0,
       "population": 2430,
       "url": "https://www.stadtradeln.de/epfenbach"
@@ -455,9 +455,9 @@
     {
       "rank": 46,
       "name": "Wiesenbach im Rhein-Neckar-Kreis",
-      "km": 5619,
-      "kmFormatted": "5.619 km",
-      "trips": 504,
+      "km": 5681,
+      "kmFormatted": "5.681 km",
+      "trips": 509,
       "kmPerInhabitant": 0.0,
       "population": 3169,
       "url": "https://www.stadtradeln.de/wiesenbach"
@@ -465,9 +465,9 @@
     {
       "rank": 47,
       "name": "Wilhelmsfeld im Rhein-Neckar-Kreis",
-      "km": 3900,
-      "kmFormatted": "3.900 km",
-      "trips": 252,
+      "km": 4439,
+      "kmFormatted": "4.439 km",
+      "trips": 282,
       "kmPerInhabitant": 0.0,
       "population": 3377,
       "url": "https://www.stadtradeln.de/wilhelmsfeld"
@@ -475,9 +475,9 @@
     {
       "rank": 48,
       "name": "Gaiberg im Rhein-Neckar-Kreis",
-      "km": 3488,
-      "kmFormatted": "3.488 km",
-      "trips": 116,
+      "km": 3555,
+      "kmFormatted": "3.555 km",
+      "trips": 117,
       "kmPerInhabitant": 0.0,
       "population": 2499,
       "url": "https://www.stadtradeln.de/gaiberg"
@@ -485,9 +485,9 @@
     {
       "rank": 49,
       "name": "Spechbach im Rhein-Neckar-Kreis",
-      "km": 3486,
-      "kmFormatted": "3.486 km",
-      "trips": 166,
+      "km": 3488,
+      "kmFormatted": "3.488 km",
+      "trips": 167,
       "kmPerInhabitant": 0.0,
       "population": 1757,
       "url": "https://www.stadtradeln.de/spechbach"
@@ -495,9 +495,9 @@
     {
       "rank": 50,
       "name": "Zuzenhausen im Rhein-Neckar-Kreis",
-      "km": 3080,
-      "kmFormatted": "3.080 km",
-      "trips": 132,
+      "km": 3124,
+      "kmFormatted": "3.124 km",
+      "trips": 133,
       "kmPerInhabitant": 0.0,
       "population": 2416,
       "url": "https://www.stadtradeln.de/zuzenhausen"
@@ -515,9 +515,9 @@
     {
       "rank": 52,
       "name": "Bammental im Rhein-Neckar-Kreis",
-      "km": 284,
-      "kmFormatted": "284 km",
-      "trips": 14,
+      "km": 294,
+      "kmFormatted": "294 km",
+      "trips": 15,
       "kmPerInhabitant": 0.0,
       "population": 6282,
       "url": "https://www.stadtradeln.de/bammental"
