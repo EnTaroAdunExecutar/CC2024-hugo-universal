@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-06T22:54:24+02:00",
+  "lastUpdate": "2026-07-07T06:57:16+02:00",
   "source": "https://www.stadtradeln.de/rhein-neckar-kreis",
   "municipalities": [
     {
@@ -15,9 +15,9 @@
     {
       "rank": 2,
       "name": "Ladenburg im Rhein-Neckar-Kreis",
-      "km": 151601,
-      "kmFormatted": "151.601 km",
-      "trips": 11265,
+      "km": 151690,
+      "kmFormatted": "151.690 km",
+      "trips": 11281,
       "kmPerInhabitant": 0.0,
       "population": 12500,
       "url": "https://www.stadtradeln.de/ladenburg"
@@ -55,9 +55,9 @@
     {
       "rank": 6,
       "name": "Walldorf im Rhein-Neckar-Kreis",
-      "km": 113455,
-      "kmFormatted": "113.455 km",
-      "trips": 12450,
+      "km": 113470,
+      "kmFormatted": "113.470 km",
+      "trips": 12451,
       "kmPerInhabitant": 14.61,
       "population": 16220,
       "url": "https://www.stadtradeln.de/walldorf"
@@ -95,9 +95,9 @@
     {
       "rank": 10,
       "name": "Eberbach im Rhein-Neckar-Kreis",
-      "km": 77494,
-      "kmFormatted": "77.494 km",
-      "trips": 5364,
+      "km": 77510,
+      "kmFormatted": "77.510 km",
+      "trips": 5367,
       "kmPerInhabitant": 5.54,
       "population": 14760,
       "url": "https://www.stadtradeln.de/eberbach"
@@ -174,30 +174,30 @@
     },
     {
       "rank": 18,
-      "name": "Edingen-Neckarhausen im Rhein-Neckar-Kreis",
-      "km": 48490,
-      "kmFormatted": "48.490 km",
-      "trips": 4918,
-      "kmPerInhabitant": 0.58,
-      "population": 14612,
-      "url": "https://www.stadtradeln.de/edingen-neckarhausen"
-    },
-    {
-      "rank": 19,
       "name": "St. Leon-Rot im Rhein-Neckar-Kreis",
-      "km": 48445,
-      "kmFormatted": "48.445 km",
-      "trips": 3684,
+      "km": 48589,
+      "kmFormatted": "48.589 km",
+      "trips": 3687,
       "kmPerInhabitant": 0.25,
       "population": 14036,
       "url": "https://www.stadtradeln.de/st-leon-rot"
     },
     {
+      "rank": 19,
+      "name": "Edingen-Neckarhausen im Rhein-Neckar-Kreis",
+      "km": 48567,
+      "kmFormatted": "48.567 km",
+      "trips": 4925,
+      "kmPerInhabitant": 0.6,
+      "population": 14612,
+      "url": "https://www.stadtradeln.de/edingen-neckarhausen"
+    },
+    {
       "rank": 20,
       "name": "Dossenheim im Rhein-Neckar-Kreis",
-      "km": 45474,
-      "kmFormatted": "45.474 km",
-      "trips": 5627,
+      "km": 45524,
+      "kmFormatted": "45.524 km",
+      "trips": 5636,
       "kmPerInhabitant": 30.69,
       "population": 12543,
       "url": "https://www.stadtradeln.de/dossenheim"
@@ -205,9 +205,9 @@
     {
       "rank": 21,
       "name": "Neulußheim im Rhein-Neckar-Kreis",
-      "km": 44485,
-      "kmFormatted": "44.485 km",
-      "trips": 2921,
+      "km": 44335,
+      "kmFormatted": "44.335 km",
+      "trips": 2902,
       "kmPerInhabitant": 2.13,
       "population": 7300,
       "url": "https://www.stadtradeln.de/neulussheim"
@@ -245,9 +245,9 @@
     {
       "rank": 25,
       "name": "Leimen im Rhein-Neckar-Kreis",
-      "km": 28704,
-      "kmFormatted": "28.704 km",
-      "trips": 2972,
+      "km": 28768,
+      "kmFormatted": "28.768 km",
+      "trips": 2975,
       "kmPerInhabitant": 0.0,
       "population": 26873,
       "url": "https://www.stadtradeln.de/leimen"
@@ -415,9 +415,9 @@
     {
       "rank": 42,
       "name": "Altlußheim im Rhein-Neckar-Kreis",
-      "km": 11664,
-      "kmFormatted": "11.664 km",
-      "trips": 1018,
+      "km": 11769,
+      "kmFormatted": "11.769 km",
+      "trips": 1028,
       "kmPerInhabitant": 3.98,
       "population": 6416,
       "url": "https://www.stadtradeln.de/altlussheim"
@@ -495,9 +495,9 @@
     {
       "rank": 50,
       "name": "Zuzenhausen im Rhein-Neckar-Kreis",
-      "km": 3958,
-      "kmFormatted": "3.958 km",
-      "trips": 163,
+      "km": 4026,
+      "kmFormatted": "4.026 km",
+      "trips": 166,
       "kmPerInhabitant": 0.0,
       "population": 2416,
       "url": "https://www.stadtradeln.de/zuzenhausen"

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-06T22:54:24+02:00",
+  "lastUpdate": "2026-07-07T06:57:16+02:00",
   "source": "https://www.stadtradeln.de/rhein-neckar-kreis",
   "teams": [
     {
@@ -65,12 +65,12 @@
     {
       "rank": 7,
       "name": "Gymnasium Walldorf",
-      "km": 25767,
-      "kmFormatted": "25.767 km",
+      "km": 25782,
+      "kmFormatted": "25.782 km",
       "activeRiders": 189,
-      "trips": 4945,
+      "trips": 4946,
       "kmPerHead": 136,
-      "co2Saved": "4.226 kg"
+      "co2Saved": "4.228 kg"
     },
     {
       "rank": 8,
@@ -175,12 +175,12 @@
     {
       "rank": 18,
       "name": "Radtreff Radsportverein",
-      "km": 16650,
-      "kmFormatted": "16.650 km",
+      "km": 16794,
+      "kmFormatted": "16.794 km",
       "activeRiders": 41,
-      "trips": 1004,
-      "kmPerHead": 406,
-      "co2Saved": "2.731 kg"
+      "trips": 1007,
+      "kmPerHead": 410,
+      "co2Saved": "2.754 kg"
     },
     {
       "rank": 19,
@@ -345,12 +345,12 @@
     {
       "rank": 35,
       "name": "GRN Gesundheitszentren Rhein-Neckar",
-      "km": 10866,
-      "kmFormatted": "10.866 km",
+      "km": 10882,
+      "kmFormatted": "10.882 km",
       "activeRiders": 37,
-      "trips": 744,
+      "trips": 746,
       "kmPerHead": 294,
-      "co2Saved": "1.782 kg"
+      "co2Saved": "1.785 kg"
     },
     {
       "rank": 36,
@@ -495,10 +495,10 @@
     {
       "rank": 50,
       "name": "EBERBACH-CHANNEL",
-      "km": 8048,
-      "kmFormatted": "8.048 km",
+      "km": 8049,
+      "kmFormatted": "8.049 km",
       "activeRiders": 27,
-      "trips": 471,
+      "trips": 472,
       "kmPerHead": 298,
       "co2Saved": "1.320 kg"
     },
@@ -795,12 +795,12 @@
     {
       "rank": 80,
       "name": "LandFrauen Neckarhausen",
-      "km": 6083,
-      "kmFormatted": "6.083 km",
+      "km": 6106,
+      "kmFormatted": "6.106 km",
       "activeRiders": 32,
-      "trips": 603,
-      "kmPerHead": 190,
-      "co2Saved": "998 kg"
+      "trips": 604,
+      "kmPerHead": 191,
+      "co2Saved": "1.001 kg"
     },
     {
       "rank": 81,
@@ -994,6 +994,16 @@
     },
     {
       "rank": 100,
+      "name": "Offenes Team - Ladenburg",
+      "km": 5429,
+      "kmFormatted": "5.429 km",
+      "activeRiders": 20,
+      "trips": 572,
+      "kmPerHead": 271,
+      "co2Saved": "890 kg"
+    },
+    {
+      "rank": 101,
       "name": "KurpfalzStrGang",
       "km": 5410,
       "kmFormatted": "5.410 km",
@@ -1001,16 +1011,6 @@
       "trips": 365,
       "kmPerHead": 318,
       "co2Saved": "887 kg"
-    },
-    {
-      "rank": 101,
-      "name": "Offenes Team - Ladenburg",
-      "km": 5404,
-      "kmFormatted": "5.404 km",
-      "activeRiders": 20,
-      "trips": 560,
-      "kmPerHead": 270,
-      "co2Saved": "886 kg"
     },
     {
       "rank": 102,
@@ -1224,6 +1224,16 @@
     },
     {
       "rank": 123,
+      "name": "Offenes Team - Neulußheim",
+      "km": 4770,
+      "kmFormatted": "4.770 km",
+      "activeRiders": 13,
+      "trips": 262,
+      "kmPerHead": 367,
+      "co2Saved": "782 kg"
+    },
+    {
+      "rank": 124,
       "name": "Montagsfahrer",
       "km": 4768,
       "kmFormatted": "4.768 km",
@@ -1233,7 +1243,7 @@
       "co2Saved": "782 kg"
     },
     {
-      "rank": 124,
+      "rank": 125,
       "name": "Kirchen in Oftersheim",
       "km": 4762,
       "kmFormatted": "4.762 km",
@@ -1243,7 +1253,7 @@
       "co2Saved": "781 kg"
     },
     {
-      "rank": 125,
+      "rank": 126,
       "name": "Profi-Radler",
       "km": 4747,
       "kmFormatted": "4.747 km",
@@ -1251,16 +1261,6 @@
       "trips": 87,
       "kmPerHead": 1187,
       "co2Saved": "779 kg"
-    },
-    {
-      "rank": 126,
-      "name": "Offenes Team - Neulußheim",
-      "km": 4745,
-      "kmFormatted": "4.745 km",
-      "activeRiders": 13,
-      "trips": 261,
-      "kmPerHead": 365,
-      "co2Saved": "778 kg"
     },
     {
       "rank": 127,
@@ -1714,6 +1714,16 @@
     },
     {
       "rank": 172,
+      "name": "GV1859/1897",
+      "km": 3787,
+      "kmFormatted": "3.787 km",
+      "activeRiders": 21,
+      "trips": 403,
+      "kmPerHead": 180,
+      "co2Saved": "621 kg"
+    },
+    {
+      "rank": 173,
       "name": "Löwenrot-Gymnasium St. Leon-Rot",
       "km": 3760,
       "kmFormatted": "3.760 km",
@@ -1723,7 +1733,7 @@
       "co2Saved": "617 kg"
     },
     {
-      "rank": 173,
+      "rank": 174,
       "name": "Physio Janja bewegt was",
       "km": 3748,
       "kmFormatted": "3.748 km",
@@ -1733,7 +1743,7 @@
       "co2Saved": "615 kg"
     },
     {
-      "rank": 174,
+      "rank": 175,
       "name": "VfB Epfenbach",
       "km": 3742,
       "kmFormatted": "3.742 km",
@@ -1741,16 +1751,6 @@
       "trips": 133,
       "kmPerHead": 374,
       "co2Saved": "614 kg"
-    },
-    {
-      "rank": 175,
-      "name": "GV1859/1897",
-      "km": 3733,
-      "kmFormatted": "3.733 km",
-      "activeRiders": 20,
-      "trips": 397,
-      "kmPerHead": 187,
-      "co2Saved": "612 kg"
     },
     {
       "rank": 176,
@@ -1994,6 +1994,16 @@
     },
     {
       "rank": 200,
+      "name": "Kirchturm-Radeln Team Leimen",
+      "km": 3306,
+      "kmFormatted": "3.306 km",
+      "activeRiders": 18,
+      "trips": 455,
+      "kmPerHead": 184,
+      "co2Saved": "542 kg"
+    },
+    {
+      "rank": 201,
       "name": "RSG SCHWETZINGEN RADPOWER.DE",
       "km": 3286,
       "kmFormatted": "3.286 km",
@@ -2003,7 +2013,7 @@
       "co2Saved": "539 kg"
     },
     {
-      "rank": 201,
+      "rank": 202,
       "name": "Stift Sunnisheim",
       "km": 3276,
       "kmFormatted": "3.276 km",
@@ -2011,16 +2021,6 @@
       "trips": 141,
       "kmPerHead": 328,
       "co2Saved": "537 kg"
-    },
-    {
-      "rank": 202,
-      "name": "Kirchturm-Radeln Team Leimen",
-      "km": 3242,
-      "kmFormatted": "3.242 km",
-      "activeRiders": 18,
-      "trips": 452,
-      "kmPerHead": 180,
-      "co2Saved": "532 kg"
     },
     {
       "rank": 203,
@@ -2134,16 +2134,6 @@
     },
     {
       "rank": 214,
-      "name": "Kegelverein 1975",
-      "km": 3024,
-      "kmFormatted": "3.024 km",
-      "activeRiders": 8,
-      "trips": 122,
-      "kmPerHead": 378,
-      "co2Saved": "496 kg"
-    },
-    {
-      "rank": 215,
       "name": "Sektion Weinheim des deutschen Alpenvereins",
       "km": 3016,
       "kmFormatted": "3.016 km",
@@ -2153,7 +2143,7 @@
       "co2Saved": "495 kg"
     },
     {
-      "rank": 216,
+      "rank": 215,
       "name": "Familie Pätzer",
       "km": 2990,
       "kmFormatted": "2.990 km",
@@ -2163,7 +2153,7 @@
       "co2Saved": "490 kg"
     },
     {
-      "rank": 217,
+      "rank": 216,
       "name": "LandFrauen Reilingen",
       "km": 2973,
       "kmFormatted": "2.973 km",
@@ -2173,7 +2163,7 @@
       "co2Saved": "488 kg"
     },
     {
-      "rank": 218,
+      "rank": 217,
       "name": "FF -  auch ohne Blaulicht immer fit!",
       "km": 2972,
       "kmFormatted": "2.972 km",
@@ -2183,7 +2173,7 @@
       "co2Saved": "487 kg"
     },
     {
-      "rank": 219,
+      "rank": 218,
       "name": "Vokalensemble Sinsheim",
       "km": 2971,
       "kmFormatted": "2.971 km",
@@ -2193,7 +2183,7 @@
       "co2Saved": "487 kg"
     },
     {
-      "rank": 220,
+      "rank": 219,
       "name": "GAIBiker",
       "km": 2968,
       "kmFormatted": "2.968 km",
@@ -2203,7 +2193,7 @@
       "co2Saved": "487 kg"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "name": "Cherrycyclist",
       "km": 2958,
       "kmFormatted": "2.958 km",
@@ -2213,7 +2203,7 @@
       "co2Saved": "485 kg"
     },
     {
-      "rank": 222,
+      "rank": 221,
       "name": "Rope Sisters",
       "km": 2938,
       "kmFormatted": "2.938 km",
@@ -2223,7 +2213,7 @@
       "co2Saved": "482 kg"
     },
     {
-      "rank": 223,
+      "rank": 222,
       "name": "Feine Sahne Fischfilet",
       "km": 2930,
       "kmFormatted": "2.930 km",
@@ -2233,7 +2223,7 @@
       "co2Saved": "481 kg"
     },
     {
-      "rank": 224,
+      "rank": 223,
       "name": "Rathaus-Radler",
       "km": 2918,
       "kmFormatted": "2.918 km",
@@ -2243,7 +2233,7 @@
       "co2Saved": "479 kg"
     },
     {
-      "rank": 225,
+      "rank": 224,
       "name": "Florapark-Team",
       "km": 2884,
       "kmFormatted": "2.884 km",
@@ -2253,7 +2243,7 @@
       "co2Saved": "473 kg"
     },
     {
-      "rank": 226,
+      "rank": 225,
       "name": "Musikverein Wiesenbach",
       "km": 2867,
       "kmFormatted": "2.867 km",
@@ -2263,7 +2253,7 @@
       "co2Saved": "470 kg"
     },
     {
-      "rank": 227,
+      "rank": 226,
       "name": "Glocknerkönige",
       "km": 2862,
       "kmFormatted": "2.862 km",
@@ -2271,6 +2261,16 @@
       "trips": 66,
       "kmPerHead": 477,
       "co2Saved": "469 kg"
+    },
+    {
+      "rank": 227,
+      "name": "Kegelverein 1975",
+      "km": 2849,
+      "kmFormatted": "2.849 km",
+      "activeRiders": 8,
+      "trips": 102,
+      "kmPerHead": 356,
+      "co2Saved": "467 kg"
     },
     {
       "rank": 228,
@@ -3164,6 +3164,16 @@
     },
     {
       "rank": 317,
+      "name": "Offenes Team - Zuzenhausen",
+      "km": 1848,
+      "kmFormatted": "1.848 km",
+      "activeRiders": 7,
+      "trips": 111,
+      "kmPerHead": 264,
+      "co2Saved": "303 kg"
+    },
+    {
+      "rank": 318,
       "name": "Klaus",
       "km": 1845,
       "kmFormatted": "1.845 km",
@@ -3173,7 +3183,7 @@
       "co2Saved": "303 kg"
     },
     {
-      "rank": 318,
+      "rank": 319,
       "name": "Bike-Buddies",
       "km": 1841,
       "kmFormatted": "1.841 km",
@@ -3183,7 +3193,7 @@
       "co2Saved": "302 kg"
     },
     {
-      "rank": 319,
+      "rank": 320,
       "name": "Freizeitradler2026",
       "km": 1828,
       "kmFormatted": "1.828 km",
@@ -3193,7 +3203,7 @@
       "co2Saved": "300 kg"
     },
     {
-      "rank": 320,
+      "rank": 321,
       "name": "Freiwillige Feuerwehr Reilingen",
       "km": 1825,
       "kmFormatted": "1.825 km",
@@ -3203,7 +3213,7 @@
       "co2Saved": "299 kg"
     },
     {
-      "rank": 321,
+      "rank": 322,
       "name": "Team HMK",
       "km": 1806,
       "kmFormatted": "1.806 km",
@@ -3213,7 +3223,7 @@
       "co2Saved": "296 kg"
     },
     {
-      "rank": 322,
+      "rank": 323,
       "name": "MSC St.Ilgen",
       "km": 1803,
       "kmFormatted": "1.803 km",
@@ -3223,7 +3233,7 @@
       "co2Saved": "296 kg"
     },
     {
-      "rank": 323,
+      "rank": 324,
       "name": "Finanzamt Schwetzingen",
       "km": 1798,
       "kmFormatted": "1.798 km",
@@ -3233,7 +3243,7 @@
       "co2Saved": "295 kg"
     },
     {
-      "rank": 324,
+      "rank": 325,
       "name": "Freie Wähler SLR",
       "km": 1796,
       "kmFormatted": "1.796 km",
@@ -3243,7 +3253,7 @@
       "co2Saved": "294 kg"
     },
     {
-      "rank": 325,
+      "rank": 326,
       "name": "Waldkindergarten",
       "km": 1796,
       "kmFormatted": "1.796 km",
@@ -3253,7 +3263,7 @@
       "co2Saved": "294 kg"
     },
     {
-      "rank": 326,
+      "rank": 327,
       "name": "Garangoverein 2026",
       "km": 1789,
       "kmFormatted": "1.789 km",
@@ -3263,7 +3273,7 @@
       "co2Saved": "293 kg"
     },
     {
-      "rank": 327,
+      "rank": 328,
       "name": "Schönbrunn FireFighters & Friends",
       "km": 1785,
       "kmFormatted": "1.785 km",
@@ -3271,16 +3281,6 @@
       "trips": 67,
       "kmPerHead": 198,
       "co2Saved": "293 kg"
-    },
-    {
-      "rank": 328,
-      "name": "Offenes Team - Zuzenhausen",
-      "km": 1780,
-      "kmFormatted": "1.780 km",
-      "activeRiders": 6,
-      "trips": 108,
-      "kmPerHead": 297,
-      "co2Saved": "292 kg"
     },
     {
       "rank": 329,
@@ -3944,6 +3944,16 @@
     },
     {
       "rank": 395,
+      "name": "Kindergarten Regenbogen",
+      "km": 1285,
+      "kmFormatted": "1.285 km",
+      "activeRiders": 15,
+      "trips": 248,
+      "kmPerHead": 86,
+      "co2Saved": "211 kg"
+    },
+    {
+      "rank": 396,
       "name": "Hochseeseglervereinigung Kurpfalz  e. V.HSVK",
       "km": 1274,
       "kmFormatted": "1.274 km",
@@ -3953,7 +3963,7 @@
       "co2Saved": "209 kg"
     },
     {
-      "rank": 396,
+      "rank": 397,
       "name": "Offenes Team - Lobbach",
       "km": 1273,
       "kmFormatted": "1.273 km",
@@ -3963,7 +3973,7 @@
       "co2Saved": "209 kg"
     },
     {
-      "rank": 397,
+      "rank": 398,
       "name": "TSG 1862 Weinheim e.V.",
       "km": 1272,
       "kmFormatted": "1.272 km",
@@ -3973,7 +3983,7 @@
       "co2Saved": "209 kg"
     },
     {
-      "rank": 398,
+      "rank": 399,
       "name": "Rotenberger Radlers",
       "km": 1269,
       "kmFormatted": "1.269 km",
@@ -3983,7 +3993,7 @@
       "co2Saved": "208 kg"
     },
     {
-      "rank": 399,
+      "rank": 400,
       "name": "DaBikeSeinIstAlles",
       "km": 1266,
       "kmFormatted": "1.266 km",
@@ -3993,7 +4003,7 @@
       "co2Saved": "208 kg"
     },
     {
-      "rank": 400,
+      "rank": 401,
       "name": "Vogelnest",
       "km": 1259,
       "kmFormatted": "1.259 km",
@@ -4003,7 +4013,7 @@
       "co2Saved": "207 kg"
     },
     {
-      "rank": 401,
+      "rank": 402,
       "name": "Das Palatin",
       "km": 1258,
       "kmFormatted": "1.258 km",
@@ -4013,7 +4023,7 @@
       "co2Saved": "206 kg"
     },
     {
-      "rank": 402,
+      "rank": 403,
       "name": "Gospelchor Hemsbach",
       "km": 1249,
       "kmFormatted": "1.249 km",
@@ -4023,7 +4033,7 @@
       "co2Saved": "205 kg"
     },
     {
-      "rank": 403,
+      "rank": 404,
       "name": "TV  Radeln",
       "km": 1230,
       "kmFormatted": "1.230 km",
@@ -4033,7 +4043,7 @@
       "co2Saved": "202 kg"
     },
     {
-      "rank": 404,
+      "rank": 405,
       "name": "Rote Radler*innen - SPD Dossenheim und Freunde",
       "km": 1225,
       "kmFormatted": "1.225 km",
@@ -4043,7 +4053,7 @@
       "co2Saved": "201 kg"
     },
     {
-      "rank": 405,
+      "rank": 406,
       "name": "CyclingSchriesheim",
       "km": 1225,
       "kmFormatted": "1.225 km",
@@ -4053,7 +4063,7 @@
       "co2Saved": "201 kg"
     },
     {
-      "rank": 406,
+      "rank": 407,
       "name": "Musikverein Plankstadt",
       "km": 1211,
       "kmFormatted": "1.211 km",
@@ -4063,7 +4073,7 @@
       "co2Saved": "199 kg"
     },
     {
-      "rank": 407,
+      "rank": 408,
       "name": "Familientherapeutisches Zentrum (FaTZ)",
       "km": 1205,
       "kmFormatted": "1.205 km",
@@ -4073,7 +4083,7 @@
       "co2Saved": "198 kg"
     },
     {
-      "rank": 408,
+      "rank": 409,
       "name": "Zusammen für Walldorf (ZfW)",
       "km": 1200,
       "kmFormatted": "1.200 km",
@@ -4083,7 +4093,7 @@
       "co2Saved": "197 kg"
     },
     {
-      "rank": 409,
+      "rank": 410,
       "name": "Fa.T.Bra",
       "km": 1192,
       "kmFormatted": "1.192 km",
@@ -4091,16 +4101,6 @@
       "trips": 119,
       "kmPerHead": 298,
       "co2Saved": "195 kg"
-    },
-    {
-      "rank": 410,
-      "name": "Kindergarten Regenbogen",
-      "km": 1180,
-      "kmFormatted": "1.180 km",
-      "activeRiders": 15,
-      "trips": 238,
-      "kmPerHead": 79,
-      "co2Saved": "194 kg"
     },
     {
       "rank": 411,
