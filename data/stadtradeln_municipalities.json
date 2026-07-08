@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "2026-07-07T22:51:27+02:00",
+  "lastUpdate": "2026-07-08T06:18:01+02:00",
   "source": "https://www.stadtradeln.de/rhein-neckar-kreis",
   "municipalities": [
     {
       "rank": 1,
       "name": "Weinheim im Rhein-Neckar-Kreis",
-      "km": 192112,
-      "kmFormatted": "192.112 km",
-      "trips": 22529,
+      "km": 192256,
+      "kmFormatted": "192.256 km",
+      "trips": 22573,
       "kmPerInhabitant": 0.88,
       "population": 45852,
       "url": "https://www.stadtradeln.de/weinheim"
@@ -15,9 +15,9 @@
     {
       "rank": 2,
       "name": "Ladenburg im Rhein-Neckar-Kreis",
-      "km": 154501,
-      "kmFormatted": "154.501 km",
-      "trips": 11405,
+      "km": 156912,
+      "kmFormatted": "156.912 km",
+      "trips": 11420,
       "kmPerInhabitant": 0.0,
       "population": 12500,
       "url": "https://www.stadtradeln.de/ladenburg"
@@ -45,9 +45,9 @@
     {
       "rank": 5,
       "name": "Sinsheim im Rhein-Neckar-Kreis",
-      "km": 117252,
-      "kmFormatted": "117.252 km",
-      "trips": 7662,
+      "km": 117332,
+      "kmFormatted": "117.332 km",
+      "trips": 7670,
       "kmPerInhabitant": 14.09,
       "population": 37000,
       "url": "https://www.stadtradeln.de/sinsheim"
@@ -55,9 +55,9 @@
     {
       "rank": 6,
       "name": "Walldorf im Rhein-Neckar-Kreis",
-      "km": 116894,
-      "kmFormatted": "116.894 km",
-      "trips": 12618,
+      "km": 116904,
+      "kmFormatted": "116.904 km",
+      "trips": 12619,
       "kmPerInhabitant": 14.61,
       "population": 16220,
       "url": "https://www.stadtradeln.de/walldorf"
@@ -65,9 +65,9 @@
     {
       "rank": 7,
       "name": "Schwetzingen im Rhein-Neckar-Kreis",
-      "km": 92906,
-      "kmFormatted": "92.906 km",
-      "trips": 9060,
+      "km": 92930,
+      "kmFormatted": "92.930 km",
+      "trips": 9063,
       "kmPerInhabitant": 4.18,
       "population": 21767,
       "url": "https://www.stadtradeln.de/schwetzingen"
@@ -115,9 +115,9 @@
     {
       "rank": 12,
       "name": "Brühl/Baden im Rhein-Neckar-Kreis",
-      "km": 74286,
-      "kmFormatted": "74.286 km",
-      "trips": 6378,
+      "km": 74311,
+      "kmFormatted": "74.311 km",
+      "trips": 6384,
       "kmPerInhabitant": 2.76,
       "population": 14624,
       "url": "https://www.stadtradeln.de/bruehl-baden"
@@ -145,9 +145,9 @@
     {
       "rank": 15,
       "name": "Schriesheim im Rhein-Neckar-Kreis",
-      "km": 57771,
-      "kmFormatted": "57.771 km",
-      "trips": 5919,
+      "km": 57874,
+      "kmFormatted": "57.874 km",
+      "trips": 5926,
       "kmPerInhabitant": 20.46,
       "population": 15331,
       "url": "https://www.stadtradeln.de/schriesheim"
@@ -195,9 +195,9 @@
     {
       "rank": 20,
       "name": "Dossenheim im Rhein-Neckar-Kreis",
-      "km": 45611,
-      "kmFormatted": "45.611 km",
-      "trips": 5643,
+      "km": 45674,
+      "kmFormatted": "45.674 km",
+      "trips": 5646,
       "kmPerInhabitant": 30.69,
       "population": 12543,
       "url": "https://www.stadtradeln.de/dossenheim"
@@ -305,9 +305,9 @@
     {
       "rank": 31,
       "name": "Schönau im Rhein-Neckar-Kreis",
-      "km": 20229,
-      "kmFormatted": "20.229 km",
-      "trips": 1115,
+      "km": 20256,
+      "kmFormatted": "20.256 km",
+      "trips": 1116,
       "kmPerInhabitant": 0.0,
       "population": 4330,
       "url": "https://www.stadtradeln.de/schoenau"
@@ -365,9 +365,9 @@
     {
       "rank": 37,
       "name": "Reilingen im Rhein-Neckar-Kreis",
-      "km": 15104,
-      "kmFormatted": "15.104 km",
-      "trips": 2006,
+      "km": 15224,
+      "kmFormatted": "15.224 km",
+      "trips": 2007,
       "kmPerInhabitant": 0.0,
       "population": 8244,
       "url": "https://www.stadtradeln.de/reilingen"
