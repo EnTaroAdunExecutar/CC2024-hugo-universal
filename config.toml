@@ -155,9 +155,17 @@ pluralizelisttitles = false
     tags = true
     search = false
 
+# ============================================================
+# STADTRADELN Configuration
+# 2026 campaign ended - widgets disabled until 2027
+# To re-enable:
+#   1. Set enable = true below
+#   2. Uncomment cron schedule in .github/workflows/update-stadtradeln-data.yml
+#   3. Update dates in carousel.flyer_date if promoting an event
+# ============================================================
 ### STADTRADELN Live Statistics
 [params.stadtradeln]
-    enable = true
+    enable = false  # Changed from true - to re-enable in 2027, set back to true
     teams_title = "Team-Rankings im Rhein-Neckar-Kreis"
     municipalities_title = "Gemeinde-Rankings im Rhein-Neckar-Kreis"
     highlight_team = "Équipe Vélo Village Eschelbronn"

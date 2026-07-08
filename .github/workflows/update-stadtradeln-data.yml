@@ -1,10 +1,19 @@
+# ============================================================
+# STADTRADELN 2026 CAMPAIGN ENDED - WORKFLOW TEMPORARILY DISABLED
+# To re-enable for 2027 campaign:
+#   1. Uncomment the cron schedule in the 'on:' section below
+#   2. Update API parameters in scripts/scrape_stadtradeln.py if needed
+#   3. Verify the Rhein-Neckar-Kreis region ID (currently 2545)
+# Last active: 2026
+# ============================================================
 name: Update STADTRADELN Data and Deploy
 
 on:
-  schedule:
-    # Run every 6 hours (at 1 AM, 7 AM, 1 PM, 7 PM UTC)
-    - cron: '0 1,7,13,19 * * *'
-  workflow_dispatch:  # Allow manual triggering
+  # Disabled for off-season - uncomment for 2027 campaign
+  # schedule:
+  #   # Run every 6 hours (at 1 AM, 7 AM, 1 PM, 7 PM UTC)
+  #   - cron: '0 1,7,13,19 * * *'
+  workflow_dispatch:  # Keep manual trigger for testing
 
 permissions:
   contents: write
