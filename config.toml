@@ -64,6 +64,13 @@ pluralizelisttitles = false
     url        = "/de/verein/satzung.pdf"
     weight     = 4
     parent     = "menu.verein"
+
+[[menu.main]]
+    name       = "Beitragsordnung"
+    url        = "/de/verein/beitragsordnung.pdf"
+    weight     = 5
+    parent     = "menu.verein"
+
 [[menu.main.params]]
     external = true
 
