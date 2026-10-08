@@ -14,7 +14,7 @@ description = "Termine und regelmäßige Ausfahrten"
 
 ### Winterfahrplan (01.10. bis 31.03)
 
-**Sonntag, 09:00 bis ca. 11:00 Uhr**
+**Sonntag, 09:30 bis ca. 11:30 Uhr**
   
 - Treffpunkt Marktplatz
 - Distanz und Durchschnittsgeschwindigkeit richten sich nach Zusammensetzung der Gruppe

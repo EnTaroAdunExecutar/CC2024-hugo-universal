@@ -44,7 +44,7 @@ Der junge Verein freut sich über jedes neue Mitglied, das beitreten will und da
 
 **Anregungen, wie das Vereinsleben attraktiv gestaltet und verbessert werden kann, sind immer willkommen.**
 
-## [Die Vorstandsschaft](../vorstand)
+## [Die Vorstandschaft](../vorstand)
 
 Reibungslos gingen auch die ersten Vorstandswahlen über die Bühne, die gut vorbereitet waren. So wurde Pasi Echner zum ersten Vorsitzenden gewählt, sein Stellvertreter ist Jörn Hartmann. Das Amt des Kassiers bekleidet Florian Echner und Roland Wolf übernimmt das Schriftführer-Amt.
 
